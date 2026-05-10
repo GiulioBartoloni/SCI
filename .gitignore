@@ -36,15 +36,6 @@ env/
 *.key
 credentials.json
 
-# Data and outputs (large/generated)
-data/
-outputs/
-kiq_3_1/
-*.csv
-*.parquet
-*.pkl
-*.joblib
-
 # Logs
 *.log
 logs/

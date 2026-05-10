@@ -1,0 +1,57 @@
+id,is_relevant,sentiment_label,sentiment_score,reason
+1rknu5q,True,negative,-0.7,"The post critiques the cycle of fear surrounding facial recognition, specifically mentioning Meta's Name Tag feature."
+1rl91kl,True,negative,-0.8,The post discusses facial recognition implementation alongside concerns about data handling and labor exploitation.
+1sw8hk3,False,neutral,0.0,"The post discusses Apple's executive changes and new iPhone products, not Meta's Name Tag feature."
+1r3s14v,True,negative,-0.7,The title directly addresses Meta's plan for face recognition while highlighting privacy concerns.
+1rljafg,True,negative,-0.7,"The title focuses on privacy alarms regarding data review, which relates to the sensitive nature of facial recognition."
+1s5jzrd,False,neutral,0.0,The title is too broad; it doesn't specifically mention Name Tag or facial recognition.
+1pw4p3o,False,neutral,0.1,"The post discusses camera-free glasses as a privacy alternative, not Meta's Name Tag feature."
+1maz82l,True,negative,-0.8,"The title explicitly frames the smart glasses as a 'Privacy Disaster,' directly addressing concerns about facial recognition."
+1mvrvxh,True,negative,-0.8,"Strongly negative sentiment regarding facial recognition and surveillance in smart glasses, referencing Meta's style."
+1ngrgay,True,negative,-0.8,"The post discusses Meta's facial recognition capability in smart glasses, expressing strong negative sentiment about privacy loss."
+1nguygh,True,negative,-0.8,"The post directly discusses Meta's smart glasses identifying people, framing it as a privacy loss."
+1r3vja0,True,negative,-0.7,The title directly addresses Meta's plan for face recognition while highlighting privacy concerns.
+1rnoiow,True,negative,-0.9,"The post directly criticizes Meta's glasses for filming people without consent, touching on privacy and surveillance."
+1rra8a5,True,negative,-0.8,"The post calls for a pause on Meta Smart Glasses due to privacy concerns, directly addressing facial recognition implications."
+1sl86um,True,negative,-0.8,The title explicitly frames the facial recognition feature as a 'serious threat to privacy'.
+1jphrxh,False,neutral,0.0,"The post is a general overview of various smart glasses categories, not focusing on Meta's Name Tag feature."
+1ke1nw6,False,neutral,0.0,"The post discusses general AI and hardware performance, not Meta's Name Tag facial recognition feature."
+1lehnkb,False,neutral,0.0,"The post is a general request for feedback on smart glasses, not focused on Meta's Name Tag feature."
+1owb6tj,False,neutral,0.0,"The post is about Alzheimer's research using smart glasses data, not Meta's Name Tag facial recognition feature."
+1pxzi1g,False,neutral,0.0,"The post discusses EvenRealities G2, not Meta's Name Tag facial recognition feature."
+1r4y34n,True,negative,-0.7,The title directly addresses Meta's plan for face recognition while highlighting privacy concerns.
+1rlvnxw,False,neutral,0.1,"The post discusses general usability and features of Meta smart glasses, not facial recognition or Name Tag."
+1rnk2z2,False,neutral,0.1,"The post discusses the camera/discretion of Ray-Bans, but does not mention or discuss the 'Name Tag' facial recognition feature."
+1rs42a8,False,neutral,0.0,"The post discusses a general proximity alert tool for smart glasses, not Meta's Name Tag facial recognition feature."
+1sa4hvb,False,neutral,0.0,"The post is about POV camera needs for adult content, not Meta's Name Tag or facial recognition features."
+1sl5ma1,False,neutral,0.0,"The post discusses open-source smart glasses generally, not Meta's Name Tag facial recognition feature."
+1sl86gx,True,negative,-0.8,The title explicitly frames the facial recognition feature as a 'serious threat to privacy'.
+1sre3c4,False,neutral,0.0,"The post discusses camera-free glasses and teleprompters, not Meta's Name Tag facial recognition feature."
+1hvvs1v,False,neutral,0.0,"The post discusses general AR assistant integration, not Meta's Name Tag facial recognition feature."
+1j00zoh,False,neutral,0.0,"The post is a market analysis of the Chinese smart eyewear market, not focused on Meta's Name Tag feature."
+1lurhzz,False,neutral,0.0,"The post discusses Viture's new glasses, not Meta's Name Tag or facial recognition features."
+1mob26i,False,neutral,0.0,"The post discusses Rokid's general AR strategy, not Meta's Name Tag facial recognition feature."
+1n1u66p,False,neutral,0.0,"The post discusses Rokid glasses, not Meta's Name Tag or facial recognition features."
+1o1xz9q,False,neutral,0.1,"The post discusses the new Ray-Ban Meta glasses generally, not specifically the Name Tag facial recognition feature."
+1ovk8u1,False,neutral,0.0,The post compares two different smart glasses and does not discuss Meta's Name Tag or facial recognition.
+1owgjyu,False,neutral,0.0,"The post is a general discussion on the future of AR smart glasses, not specific to Meta's Name Tag feature."
+1p0glko,False,neutral,0.0,The post compares multiple smart glasses but does not discuss Meta's Name Tag or facial recognition features.
+1q71mk4,False,neutral,0.0,"The post discusses general AR/HUD limitations and pricing, not Meta's Name Tag facial recognition feature."
+1r4en2l,True,negative,-0.7,The title directly addresses Meta's plan for face recognition while highlighting privacy concerns.
+1rj4jmu,True,negative,-0.7,"Highlights privacy concerns regarding data transfer for review, directly impacting facial recognition/data handling."
+1rlxj74,False,neutral,0.0,"The post discusses general privacy concerns and content review, not specifically the 'Name Tag' facial recognition feature."
+1rp1mpv,True,negative,-0.8,"Discusses controversial real-world use of Meta AI glasses by law enforcement, raising privacy and surveillance concerns."
+1rs8t2l,False,negative,-0.8,"Focuses on general data privacy/surveillance lawsuits, not specifically the 'Name Tag' facial recognition feature."
+1rvbza0,True,negative,-0.6,The title expresses worry about privacy and the potential for smart glasses to be seen as 'pervert glasses.'
+1rx4wiu,True,negative,-0.7,The post details intense scrutiny and privacy concerns regarding Meta's facial recognition plans.
+1sl5k39,False,neutral,0.0,"The post discusses open-source smart glasses generally, not Meta's Name Tag facial recognition feature."
+1oo468c,False,negative,-0.6,"Discusses general privacy concerns with smart glasses, not specifically Meta's 'Name Tag' facial recognition feature."
+1pbnmx3,True,negative,-0.8,The post discusses the misuse of Meta glasses' facial recognition capabilities for real-time doxxing.
+1pqlsl2,False,neutral,0.1,"The post discusses general privacy concerns and camera usage, not specifically Meta's Name Tag facial recognition feature."
+1q0srds,False,neutral,0.1,"Focuses on general privacy concerns and bans of smart glasses, not Meta's Name Tag facial recognition feature."
+1q7g4rj,False,neutral,0.1,"The post discusses general features (audio, camera) but does not mention Name Tag or facial recognition."
+1rkps9x,False,neutral,0.1,"The post discusses general features and privacy concerns, but does not mention Meta's 'Name Tag' facial recognition feature."
+1rm7944,False,neutral,0.1,"The post discusses general privacy concerns with Meta, but does not mention the 'Name Tag' facial recognition feature specifically."
+1kbchf0,True,negative,-0.7,"The title explicitly raises a privacy concern regarding Meta Smart Glasses, suggesting negative sentiment toward the technology."
+1s9z08o,False,neutral,0.0,"The post discusses Snapchat's strategy, not Meta's Name Tag facial recognition feature."
+1ihtt0t,False,neutral,0.0,"The post discusses Meta Quest 2 head straps, not the Ray-Ban Meta Name Tag feature."

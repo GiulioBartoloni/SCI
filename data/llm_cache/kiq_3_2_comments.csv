@@ -1,0 +1,850 @@
+id,is_relevant,sentiment_label,sentiment_score,reason
+o8ly66o,False,neutral,0.0,"The comment discusses accessibility features for a medical condition, not Meta's Name Tag facial recognition."
+o8mczca,False,neutral,0.0,"The comment discusses subtitle functionality for accessibility, not Meta's Name Tag or facial recognition."
+o8mgspg,False,neutral,0.0,"The comment discusses accessibility and corporate ethics, not Meta's Name Tag or facial recognition features."
+o8mp4zi,False,neutral,0.0,"The comment discusses Apple's privacy controls regarding recording, not Meta's Name Tag feature."
+o8n1kqb,True,negative,-0.4,"Expresses strong opposition to facial recognition in consumer smart glasses, citing privacy concerns."
+o8n4wgo,True,negative,-0.7,"Critiques the trend of accessibility features being used as data collection avenues, implying privacy concerns related to AI/facial recognition."
+o8nhrwd,False,neutral,0.0,"The comment discusses Sony Viture glasses, not Meta's Name Tag or facial recognition features."
+o8npivy,True,negative,-0.7,"It criticizes Meta's power and privacy practices, linking them to predatory behavior, which relates to facial recognition concerns."
+o8nzz8l,True,negative,-0.8,"The user expresses deep distrust in big tech, specifically mentioning Meta's products and the risk of abuse."
+o8ou9z5,False,neutral,0.0,"The comment discusses accessibility and recording indicators, not Meta's Name Tag facial recognition feature."
+o8p75ra,False,neutral,0.0,The comment is just an affirmation ('100%') and provides no context regarding Name Tag or facial recognition.
+o8t9o0n,False,neutral,0.0,"The comment is a general compliment about a post, not discussing Name Tag or facial recognition."
+o8tigc6,True,neutral,0.1,"Discusses the expected public reaction to Meta's features, implying acceptance of the technology."
+o8tsoxx,False,neutral,0.0,"The comment is too generic, discussing the overall smart glasses market trajectory, not Meta's Name Tag feature."
+o8vis42,True,negative,-0.8,The comment uses hyperbolic language to express strong privacy concerns regarding surveillance via the glasses.
+o8yqcwy,False,neutral,0.0,"The comment discusses accessibility in general, not Meta's Name Tag or facial recognition features."
+o8yvxfw,False,neutral,0.0,The comment is a generic offer of support and does not mention facial recognition or Meta's Name Tag feature.
+o98mba7,False,neutral,0.0,"The comment is a general privacy concern about Meta and Google, not specifically about the Name Tag feature."
+o98moiv,True,neutral,0.1,"Expresses a need for a specific, privacy-conscious facial recognition feature for accessibility."
+o992ofn,False,neutral,0.0,"The comment discusses laws and legislation, not Meta's Name Tag or facial recognition features."
+o9bhuvn,False,neutral,0.0,The comment is a generic AI detection disclaimer and does not discuss Meta's Name Tag or facial recognition.
+o9bibed,False,neutral,0.0,The comment discusses language assistance (ASL/English proofreading) and is not about Meta's Name Tag feature.
+o9bo73b,False,neutral,0.0,The comment discusses AI-generated content quality (Grammarly) and is not about Meta's Name Tag feature.
+o8qc10o,False,neutral,0.0,"The comment is a moderator announcement regarding subreddit submission rules, not about Meta's Name Tag feature."
+oidqs49,False,neutral,0.0,The comment is a general complaint about subscriptions and is not related to facial recognition or Name Tag features.
+oidt2cm,False,neutral,0.0,"The comment discusses smart home hubs and robots, not Meta's Name Tag facial recognition feature."
+oidw7ow,False,neutral,0.0,"The comment discusses Meta's market growth and Apple's potential decline, not the Name Tag feature."
+oidxqbn,False,neutral,0.0,"The comment discusses foldable phones, not Meta's Name Tag facial recognition feature."
+oidzvjr,False,neutral,0.0,"The comment discusses the foldable phone market, not Meta's Name Tag or facial recognition in smart glasses."
+oie4ln6,False,neutral,0.0,"The comment discusses smartphone purchasing habits and generational spending, not smart glasses or facial recognition."
+o56f9bj,False,neutral,0.0,"The comment is about printing a mask with a bird, not Meta's Name Tag or facial recognition."
+o56fvoy,True,negative,-0.8,The comment expresses strong concern and distrust regarding Meta's facial recognition scope and privacy implications.
+o56g67z,False,neutral,0.0,"The comment is a general statement about facial recognition on security cameras, not specific to Meta's Name Tag feature."
+o56h5gu,True,negative,-0.5,The comment implies surveillance or unwanted identification by Meta's technology.
+o56hrrt,True,positive,0.5,"The comment explicitly supports the use of facial recognition for identification, aligning with the topic."
+o56jc67,False,neutral,0.0,"The comment discusses social media usage and friends, not Meta's Name Tag or facial recognition features."
+o56jq4e,False,neutral,0.0,The comment is too brief and lacks any context regarding Meta's Name Tag or facial recognition features.
+o56jxri,True,negative,-0.7,"The comment expresses strong disapproval regarding the necessity of the feature, implying opposition to the facial recognition aspect."
+o56k8q4,False,neutral,0.0,"The comment is a hyperbolic statement about future identification methods, not directly discussing Meta's Name Tag feature."
+o56mih2,False,neutral,0.0,The comment is a cryptic statement about Zuckerberg and does not mention Name Tag or facial recognition features.
+o56mqw3,False,neutral,0.0,The comment is a question about a specific partnership (Flock) and does not mention Name Tag or facial recognition.
+o56or7e,True,negative,-0.7,"The comment cites reporting on Meta's facial recognition plans, expressing disapproval of the timing."
+o56pgek,True,neutral,0.1,"It questions the functionality of facial recognition (Name Tag) in a specific, albeit extreme, use case."
+o56qguc,True,neutral,0.1,"It mentions facial recognition as a known issue but questions general adoption, keeping it relevant to the topic."
+o56qhh5,False,neutral,0.0,"The comment discusses broader concerns about surveillance and open-source AI, not Meta's Name Tag feature specifically."
+o56qym1,False,neutral,0.0,"The comment discusses general consumer spending and smartphone addiction, not Meta's Name Tag feature."
+o56ru3r,False,neutral,0.0,"The comment discusses Facebook page usage and marketplace scams, not Meta's Name Tag or facial recognition."
+o56uesn,False,neutral,0.0,"The comment discusses sales projections and general adoption, not the Name Tag facial recognition feature."
+o56utst,False,neutral,0.0,"The comment discusses lens features and general hesitation about Meta, not the Name Tag facial recognition feature."
+o56uyup,True,negative,-0.7,The comment uses a dystopian reference ('Snow Crash') to express strong negative sentiment about the implications of facial recognition.
+o56vnoo,True,negative,-0.5,The user expresses concern about being tracked/identified by the glasses' technology.
+o56w8nq,True,negative,-0.8,"The comment expresses strong negative sentiment regarding the social implications of wearing the glasses, implying discomfort with the technology."
+o56wakd,False,neutral,0.0,"The comment is a general critique of corporate power and technology, not specific to Meta's Name Tag feature."
+o56wlk8,False,neutral,0.0,The comment is a general question about Mark Zuckerberg's history and does not mention Name Tag or facial recognition.
+o56xksw,True,negative,-0.6,Expresses skepticism about the technology's readiness and raises significant privacy concerns regarding real-time facial recognition.
+o56xzzd,False,neutral,0.0,"The comment is a general philosophical statement about privacy, not specific to Meta's Name Tag feature."
+o570p52,False,neutral,0.0,The comment is too vague and lacks context regarding facial recognition or the Name Tag feature.
+o571ry6,True,negative,-0.8,"Expresses strong negative sentiment against camera glasses, which directly relates to the privacy concerns surrounding facial recognition features."
+o572502,False,neutral,0.0,"The comment is a general speculation about government adoption, not specific to the Name Tag feature or facial recognition."
+o572vwr,False,neutral,0.0,"The comment is too vague and does not mention Name Tag, facial recognition, or Meta's policies."
+o575iv1,True,negative,-0.7,"Implies surveillance and data collection by Meta, which is a core concern regarding facial recognition features."
+o57c1zx,False,neutral,0.0,"The comment is too vague and does not mention facial recognition, Name Tag, or Meta's policies."
+o57dczm,False,neutral,0.0,"The comment is completely off-topic, discussing unrelated political/religious commentary."
+o57dhxj,True,negative,-0.7,Expresses concern about unauthorized surveillance and lack of consent regarding facial recognition.
+o57dl8f,True,negative,-0.7,Expresses concern about privacy and misuse of facial recognition data by authorities (ICE).
+o57fukl,True,negative,-0.8,The comment expresses concern about the privacy and safety implications of facial recognition features.
+o57gufm,False,neutral,0.0,"The comment discusses misuse of smart glasses generally, not Meta's specific 'Name Tag' facial recognition feature."
+o57n61n,False,neutral,0.0,"The comment is a general social commentary and does not mention Meta, Name Tag, or facial recognition."
+o57uwn0,True,positive,0.6,The user expresses a need that a facial recognition feature like Name Tag could fulfill for them.
+o57wnf2,False,neutral,0.0,The comment is a general statement about Facebook profiles and does not mention Name Tag or facial recognition on smart glasses.
+o57wsgc,False,neutral,0.0,"The comment is a general, abstract suggestion and does not mention Meta, Name Tag, or facial recognition technology."
+o57xpex,False,neutral,0.0,"The comment is a vague, thematic statement and does not mention Meta, Name Tag, or facial recognition."
+o57ywlt,False,neutral,0.0,"This is a general, metaphorical comment that does not specifically mention Name Tag or facial recognition."
+o581mm2,False,neutral,0.0,"The comment is a general inquiry about the existence and adoption of the glasses, not about the Name Tag feature."
+o586x9g,False,neutral,0.0,"The comment is a general expression of anger/dislike toward the glasses, not specifically about the Name Tag feature."
+o58cfo5,False,neutral,0.0,"The comment is a general, vague question about using Meta products, not specifically about the Name Tag feature."
+o58j5da,False,neutral,0.0,"The comment is a general, vague complaint about social interaction and dystopia, not specifically about Meta's Name Tag feature."
+o58m7ct,True,negative,-0.8,The comment expresses discomfort ('creepy') which strongly implies negative sentiment toward a surveillance/recognition feature.
+o58om82,True,negative,-0.8,The comment expresses fear that the feature will be used for stalking and harming people.
+o58pm7i,True,positive,0.6,"The user expresses a desire for a heads-up display of names, directly aligning with the function of Name Tag."
+o58ulwn,False,neutral,0.0,"The comment is about a separate, unrelated scandal involving Zuckerberg, not the smart glasses feature."
+o58z6ji,True,negative,-0.8,"The comment expresses strong opposition to surveillance, which directly relates to the privacy concerns surrounding facial recognition features."
+o590804,True,negative,-0.9,"The comment expresses extreme hostility toward tracking/recognition technology, directly referencing the invasive nature of such features."
+o593ifi,True,negative,-0.8,The comment expresses strong negative concern about the potential misuse of facial recognition technology.
+o5961qg,True,negative,-0.7,"The comment directly questions the utility of 'Creep Glasses,' implying disapproval of the feature."
+o597378,True,negative,-0.8,"The comment expresses strong distrust regarding facial recognition technology, referencing surveillance concerns related to Meta's features."
+o59ci1x,False,neutral,0.0,"The comment discusses potential regulatory action against smart glasses generally, not Meta's Name Tag feature specifically."
+o59eo7k,True,negative,-0.8,Expresses strong distrust and opposition to the surveillance aspect of camera-equipped glasses.
+o59ho67,True,neutral,0.0,"The phrase is cryptic but directly references 'Face,' suggesting a connection to facial recognition features."
+o59jul6,False,neutral,0.0,"The comment is a general critique of Meta's technology, not specifically about the Name Tag facial recognition feature."
+o59rv13,True,negative,-0.7,"The comment implies surveillance and distrust regarding the glasses' capabilities, linking them to 'spybots'."
+o59ssnb,False,neutral,0.0,The comment is too vague ('No announced deal') to relate specifically to Name Tag or facial recognition.
+o59t5zz,False,neutral,0.0,"This comment is a generic, conversational phrase and does not mention Name Tag or facial recognition."
+o5a5us2,True,positive,0.8,The user expresses excitement about the concept of face recognition and name tagging features.
+o5a8wha,False,neutral,0.0,"The comment expresses general hostility toward the glasses, not specifically about the Name Tag facial recognition feature."
+o5acxjv,False,neutral,0.0,"The comment is too vague and does not mention facial recognition, Name Tag, or Meta's smart glasses features."
+o5admny,False,neutral,0.0,The comment is too vague ('WORSE than the title') to determine relevance to Name Tag or facial recognition.
+o5afbmp,False,neutral,0.0,"The comment discusses workplace bans on smart glasses generally, not Meta's Name Tag or facial recognition specifically."
+o5anznk,True,negative,-0.5,"Mentions inappropriate use, implying negative consequences related to the technology's function."
+o5aoaw2,True,neutral,0.1,"Discusses potential legislative pushback regarding the adoption of the technology, which relates to facial recognition."
+o5aofi7,False,neutral,0.0,"The comment is a general critique of the device, not specifically about the Name Tag facial recognition feature."
+o5ax88b,False,neutral,0.0,"The comment is too generic, only mentioning convenience at checkouts without referencing Name Tag or facial recognition."
+o5azsd7,True,negative,-0.9,Expresses strong distrust and fear regarding Meta's data access and surveillance capabilities via the glasses.
+o5b4c7e,False,neutral,0.0,The comment is a general condemnation of Meta and does not mention Name Tag or facial recognition features.
+o5b4uzp,False,neutral,0.0,"The comment is a general critique of Facebook/Meta's actions, not specifically about the Name Tag feature."
+o5b9o39,True,negative,-0.8,"Critiques Meta's privacy practices regarding data collection and identification capabilities, directly related to facial recognition."
+o5b9oiv,True,negative,-0.7,"The comment discusses the confidence and perceived lack of resistance to a feature rollout, implying negative views on the facial recognition aspect."
+o5b9oyf,True,negative,-0.8,"Expresses strong concern over the invisible nature of recording/scanning, framing it as surveillance."
+o5bt67f,True,negative,-0.8,"The comment expresses fear ('terrifying'), directly relating to the privacy concerns surrounding facial recognition features like Name Tag."
+o5bx7he,False,neutral,0.0,"The comment is too vague and lacks any mention of Meta, Name Tag, or facial recognition."
+o5bxfpw,False,neutral,0.0,"The comment is a general political statement and does not mention Meta, smart glasses, or facial recognition."
+o5c69zk,False,neutral,0.0,"The comment is about public confrontation regarding recording, not specifically Meta's Name Tag or facial recognition features."
+o5chxka,True,positive,0.7,The user explicitly desires a feature (name recognition) that aligns directly with Meta's Name Tag functionality.
+o5d2k2g,False,neutral,0.0,The comment is too vague to determine if it relates specifically to the Name Tag feature or facial recognition.
+o5dy9uo,False,neutral,0.0,"The comment discusses Elon Musk's comments on implanted chips, not Meta's Name Tag feature."
+o5e4p70,False,neutral,0.0,The comment is too vague and lacks specific context regarding Meta's Name Tag or facial recognition.
+o5g4dyq,False,neutral,0.0,The comment is a sarcastic reaction ('/s') but lacks specific discussion about Name Tag or facial recognition.
+o5g4ge8,True,negative,-0.8,"The term 'PedoSpecs' is a highly derogatory and negative reference to Meta's smart glasses, implying misuse of facial recognition."
+o5ghcc9,False,neutral,0.0,"This is a general philosophical statement about surveillance, not specific to Meta's Name Tag feature."
+o5qiki3,True,negative,-0.7,The user expresses discomfort and fear of being perceived as a 'creeper' due to the glasses' surveillance capabilities.
+o6921gb,False,neutral,0.0,"The comment discusses general discomfort with wearable tech, not Meta's Name Tag or facial recognition features."
+o98kw2k,False,neutral,0.0,"The comment is a short, vague reaction to an Instagram link and does not mention Name Tag or facial recognition."
+og0mbvi,True,negative,-0.7,Expresses strong concern and distrust regarding the potential misuse and surveillance aspects of facial recognition.
+oi8tr3c,True,negative,-0.6,The comment expresses strong negative sentiment regarding the privacy implications of facial recognition.
+o8sc53q,False,neutral,0.0,The comment is too vague and provides no context regarding Meta's Name Tag or facial recognition.
+o8scaqv,False,negative,-0.7,"The comment discusses data contribution to Meta's AI generally, not specifically the 'Name Tag' facial recognition feature."
+o8sd3x0,False,neutral,0.0,"The comment discusses general privacy concerns about recording, not specifically Meta's Name Tag facial recognition feature."
+o8se285,False,neutral,0.0,"The comment discusses general privacy concerns and user demographics, not Meta's Name Tag or facial recognition feature."
+o8sfrmn,False,neutral,0.0,"The comment is too vague and does not mention facial recognition, Name Tag, or Meta's specific features."
+o8sgqyh,False,neutral,0.0,"The comment is a general critique of Meta's privacy policy, not specifically about the Name Tag feature."
+o8sgrpa,False,neutral,0.0,The comment is sexually suggestive and has no connection to facial recognition or Meta's smart glasses features.
+o8shds1,True,negative,-0.5,The demand for conspicuous labeling implies concern or distrust regarding the feature's privacy implications.
+o8sjiwy,False,neutral,0.0,"The comment is a short, ambiguous reaction and does not mention Name Tag, facial recognition, or Meta's policies."
+o8sjxp2,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition specifically."
+o8skeoy,False,neutral,0.0,The comment is too vague and lacks any specific mention of Name Tag or facial recognition.
+o8skh7g,True,negative,-0.7,"It questions the privacy implications of Meta's smart glasses, which relates to facial recognition features."
+o8skhvt,False,neutral,0.0,The comment is a personal insult and does not discuss the Name Tag feature or facial recognition technology.
+o8skl3x,False,neutral,0.0,"The comment is a general call for shaming, lacking specific mention of Meta's Name Tag or facial recognition."
+o8skw3w,False,neutral,0.0,"The comment is too vague and does not mention Meta, Ray-Ban Meta, or facial recognition features."
+o8smd8t,False,neutral,0.0,The comment is sexually explicit and completely unrelated to Meta's Name Tag or facial recognition features.
+o8smsv6,True,negative,-0.8,The comment expresses strong concern about privacy risks associated with recording and identification features.
+o8sn0jg,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition."
+o8sn1nn,False,neutral,0.0,"The comment is a general critique of Meta's privacy practices, not specifically about the Name Tag feature."
+o8sn9bc,False,neutral,0.0,"The comment discusses restaurant bans and does not mention Meta, Name Tag, or facial recognition."
+o8snh7t,False,neutral,0.0,"The comment is a general expression of dismissal and does not mention Meta, Name Tag, or facial recognition."
+o8spvkt,True,neutral,0.1,"It references a safety argument regarding a recording indicator, which relates to privacy concerns around facial recognition."
+o8ss2dk,True,negative,-0.7,"The comment expresses strong disapproval regarding data review/privacy, which relates to facial recognition features."
+o8stkfq,False,neutral,0.0,"The comment is a vague, unrelated jab and does not mention Name Tag or facial recognition features."
+o8sujt0,False,neutral,0.0,"The comment discusses the use of audio boosting devices by older people, not Meta's Name Tag facial recognition feature."
+o8svcmm,False,neutral,0.0,The comment is too brief and lacks any specific content regarding Name Tag or facial recognition.
+o8sxg1v,False,neutral,0.0,"The comment is too vague and does not mention facial recognition, Name Tag, or Meta's specific features."
+o8t2kph,False,neutral,0.0,"The comment is a general, unrelated statement about intelligence levels and does not mention smart glasses or facial recognition."
+o8t7eum,False,neutral,0.0,"The comment is too vague, only referencing a general 'smart glasses bad' discussion without mentioning Name Tag or facial recognition."
+o8t7sdt,False,neutral,0.0,"The comment discusses general privacy lawsuits against Meta, not specifically the Name Tag facial recognition feature."
+o8t8j2o,False,neutral,0.0,"The comment is a general statement about smart glass adoption, not specific to Name Tag or facial recognition."
+o8t8vdc,False,neutral,0.0,"The comment discusses a general AI disclaimer, not Meta's Name Tag or facial recognition features."
+o8t99bn,False,neutral,0.0,"The comment discusses subscription models and monitoring features, but does not mention Name Tag or facial recognition specifically."
+o8ta42f,False,neutral,0.0,The comment is too vague ('It’s driving engagement') to be specifically about Name Tag or facial recognition.
+o8tca2v,False,neutral,0.0,The comment is a general call for social shaming and does not mention Name Tag or facial recognition.
+o8tcl93,False,neutral,0.0,"The comment is about a job application, not the Name Tag feature or facial recognition technology."
+o8tdcux,False,neutral,0.0,The comment is too vague ('The few that do so far') to relate specifically to Name Tag or facial recognition.
+o8tfo1f,False,neutral,0.0,"The comment is a generic statement and does not mention Meta, Name Tag, or facial recognition."
+o8tgz2z,False,neutral,0.0,"The comment discusses audio passthrough and a mechanical opener, not Meta's Name Tag or facial recognition."
+o8tiqon,True,negative,-0.8,"The comment directly criticizes the concept of attaching a camera/facial recognition to the face, citing privacy violations."
+o8tkt3e,False,neutral,0.0,The comment is vague and metaphorical; it does not specifically discuss Name Tag or facial recognition features.
+o8tmqq2,True,negative,-0.7,"The question implies concern or distrust regarding the recording capabilities, likely referencing facial recognition features."
+o8txwhg,True,negative,-0.7,"The comment expresses strong apprehension about the concept of wearing cameras, which relates to facial recognition technology."
+o8ty1p1,False,neutral,0.0,The comment is a general statement about data privacy and not specific to Meta's Name Tag feature.
+o8u4pgg,False,neutral,0.0,"The comment is a general, vague warning about social interaction, not specifically about Name Tag or facial recognition features."
+o8ud2g3,False,neutral,0.0,The comment is too vague to specifically address Meta's Name Tag or facial recognition features.
+o8ugqh7,False,neutral,0.0,"The comment is a personal, cryptic statement and does not mention Meta, Name Tag, or facial recognition."
+o8uoslz,False,neutral,0.0,"The comment is a short, vague insult and does not mention Name Tag or facial recognition."
+o8upnqj,False,neutral,0.0,"The comment discusses an apology video and memory, with no mention of Meta, Name Tag, or facial recognition."
+o8w5yxu,False,neutral,0.0,The comment is too vague and provides no specific information about Meta's Name Tag or facial recognition.
+o8wl67i,False,neutral,0.0,"The comment is too vague and does not mention facial recognition, Name Tag, or Meta's smart glasses features."
+o8y5hrp,False,neutral,0.0,"The comment is a general critique of video recording, not specifically about Meta's Name Tag or facial recognition features."
+o8zi9an,False,neutral,0.0,"This is a general statement about Meta's privacy practices, not specifically about the Name Tag feature."
+o91lt9p,False,neutral,0.0,"The comment is a general, cynical remark about constant recording, not specifically about the Name Tag feature."
+o91mme4,False,neutral,0.0,The comment is a reaction to a person's demeanor and is not about Meta's Name Tag or facial recognition.
+o91mx9c,False,neutral,0.0,The comment is too short and lacks context to be related to the specific topic of Name Tag or facial recognition.
+oefayit,False,neutral,0.0,"The comment discusses an alternative product (Dymesty) and privacy concerns generally, not Meta's Name Tag feature."
+ocv44rr,False,neutral,0.0,"The comment discusses battery and AI in general, but does not mention Name Tag or facial recognition specifically."
+ocv4pf0,False,neutral,0.0,"The comment is a general, cryptic statement and does not mention Meta, Name Tag, or facial recognition."
+ocv5vcs,False,neutral,0.0,The comment is only a username and contains no substantive content to analyze.
+ocwv0nr,True,negative,-0.8,The comment expresses strong negative sentiment regarding facial recognition and privacy concerns related to recording.
+ocwzpcw,False,neutral,0.0,"The comment is a general, unrelated remark and does not mention Meta, Name Tag, or facial recognition."
+ocxzskp,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition technology."
+ocz2llg,True,negative,-0.8,"The comment criticizes Meta's monetization strategy, implying the facial recognition feature is being used to profit from negative actors."
+oczqtpr,False,neutral,0.0,The comment is a general political statement and does not mention smart glasses or facial recognition.
+nw0uk1c,False,neutral,0.0,"The comment is a general rule about sourcing and AI content, not about Meta's Name Tag feature."
+nw1b7x0,False,negative,-0.7,"Discusses general privacy concerns with Meta wearables, but does not mention the 'Name Tag' facial recognition feature."
+n9s9c33,False,neutral,0.0,The comment is an automated moderation reminder about subreddit rules and privacy FAQs.
+n9saz1j,True,negative,-0.7,The comment implies a negative reaction or discomfort regarding the use of the glasses' features.
+n9sk8zt,False,neutral,0.0,"The comment is a general statement about privacy/surveillance, not specifically about Meta's Name Tag feature."
+n9skp53,False,neutral,0.0,The comment discusses dropping out of elite universities and is completely unrelated to smart glasses or facial recognition.
+n9sxr4k,True,negative,-0.7,The aggressive tone suggests strong disapproval of the feature being discussed (implied to be Name Tag/facial recognition).
+n9tyej0,False,neutral,0.0,"The comment discusses Chinese smart glasses and government surveillance, not Meta's Name Tag feature."
+n9uo40i,True,negative,-0.7,Expresses strong negative concerns about privacy invasion and social awkwardness caused by facial recognition.
+n9vpj4q,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition specifically."
+n9wric9,False,neutral,0.0,"The comment is a general expression of distrust toward technology, not specifically about Name Tag or facial recognition."
+n9wrudc,False,neutral,0.0,"The comment discusses camera jamming/distortion, not Meta's Name Tag or facial recognition features."
+n9wwi58,False,neutral,0.0,"The comment is a general inquiry about cheaper DIY alternatives, not about Meta's Name Tag feature."
+na201jr,False,neutral,0.0,"The comment discusses laser jammers and police interference, which is unrelated to Meta's Name Tag feature."
+ne5x0bb,False,neutral,0.0,The comment is an automated moderation reminder and contains no discussion about Meta's Name Tag feature.
+ne5yd8g,True,negative,-0.7,"The comment expresses disgust regarding being filmed without consent, which relates to the privacy implications of facial recognition features."
+ne5zo41,True,neutral,0.0,The comment directly questions the functionality and requirements (like having a Facebook account) for Meta's identification features.
+ne607ux,False,neutral,0.0,"The comment discusses general AI photo apps and data harvesting, not Meta's Name Tag feature."
+ne60ybl,False,neutral,0.0,"This is a very general statement about smart glasses, not specifically about Meta's Name Tag or facial recognition."
+ne6154h,False,neutral,0.0,The comment is too vague and does not specifically discuss Meta's Name Tag feature or facial recognition.
+ne61cx3,False,neutral,0.0,The comment is a general statement about conflict and is not related to Meta's Name Tag or facial recognition.
+ne61sbs,False,neutral,0.0,The comment is a general comparison about mobile speed and does not mention Name Tag or facial recognition.
+ne62cm6,False,neutral,0.0,The comment is a generic acknowledgment of a linked study and does not mention Name Tag or facial recognition.
+ne62ct7,False,neutral,0.0,The comment is a general statement about privacy and does not specifically mention Meta's Name Tag or facial recognition features.
+ne62jv8,True,negative,-0.8,"Expresses deep concern about pervasive facial tracking and corporate surveillance, directly related to recognition technology."
+ne62rvl,False,neutral,0.0,"The comment discusses name ambiguity and social media, not Meta's Name Tag facial recognition feature."
+ne62u83,False,neutral,0.0,"The comment discusses the historical existence of the technology, not Meta's specific Name Tag feature or consumer sentiment."
+ne62vg9,False,neutral,0.0,"The comment is a general critique of social networks and does not mention Meta, Name Tag, or facial recognition."
+ne6388q,True,neutral,0.1,"It discusses facial recognition in public settings, directly addressing the privacy concerns surrounding the technology."
+ne63xwk,False,neutral,0.0,The comment suggests an alternative product (Pimeyes) and does not mention Meta's Name Tag or facial recognition.
+ne6485r,True,negative,-0.8,"The comment directly implies a lack of privacy regarding the technology, strongly suggesting concern over facial recognition."
+ne64c50,False,neutral,0.0,The comment is just a request for a link and contains no substantive discussion about Name Tag or facial recognition.
+ne64g0q,False,neutral,0.0,"The comment is too vague and does not mention Name Tag, facial recognition, or Meta's policies."
+ne64pby,False,neutral,0.0,The comment is too brief ('Nothing.') to provide any substantive information regarding the Name Tag feature.
+ne650bq,False,neutral,0.0,The comment is a generic request for a source link and does not mention Name Tag or facial recognition.
+ne65mvo,False,neutral,0.0,"The comment is too vague and does not mention facial recognition, Name Tag, or Meta's smart glasses features."
+ne65xct,True,negative,-0.8,"The user describes unauthorized and intrusive facial recognition finding private images, indicating a negative experience with the feature."
+ne66hl0,False,neutral,0.0,"The comment is a general philosophical statement about privacy in public spaces, not specific to Meta's Name Tag feature."
+ne66iib,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition."
+ne670qs,False,neutral,0.0,"The comment discusses personal social habits and privacy concerns generally, not Meta's Name Tag feature."
+ne675r9,False,neutral,0.0,"The comment is a general philosophical statement about societal change, not specific to Meta's Name Tag feature."
+ne67bvf,True,neutral,0.0,"The question directly probes the capability of rapid identification, which relates to facial recognition features like Name Tag."
+ne67z0k,False,neutral,0.0,"The comment discusses general AI/server querying methods, not Meta's Name Tag feature specifically."
+ne68va3,False,neutral,0.0,The comment is a generic request for a source and does not mention Name Tag or facial recognition.
+ne697ge,False,neutral,0.0,The comment is too vague ('This is our reality now') to be specifically about Meta's Name Tag feature.
+ne69mq0,True,negative,-0.5,Expresses concern about the potential abuse of future surveillance technology like smart glasses.
+o575qnu,False,neutral,0.0,The comment is an automated moderation reminder about subreddit rules and privacy FAQs.
+o577qwc,False,neutral,0.0,"The comment is about Mark Zuckerberg and a specific photograph, not smart glasses or facial recognition."
+o577rm3,False,neutral,0.0,The comment is too vague ('Can they just stop') to be tied specifically to the Name Tag feature.
+o578lgk,True,negative,-0.7,"Compares the feature to a surveillance device (Ring camera), implying privacy concerns about facial recognition."
+o579w4p,True,negative,-0.5,"The comment raises concerns about linking facial recognition to government databases (TSA/ICE), indicating distrust."
+o57a36f,True,neutral,0.1,"It questions the scope of facial recognition, linking it to government databases, which relates to the feature's implications."
+o57bdz0,False,neutral,0.0,"The comment is a general, rhetorical question about Zuckerberg, not about the Name Tag feature."
+o57dov5,True,negative,-0.7,"The comment implies the feature is socially isolating or undesirable, suggesting negative sentiment toward the concept."
+o57eqlz,False,neutral,0.0,"The comment is a general political/censorship statement and does not mention Meta, Name Tag, or facial recognition."
+o57exag,False,neutral,0.0,"The comment is a general statement about banning the glasses, not discussing the Name Tag or facial recognition feature."
+o57fnh5,False,neutral,0.0,"The comment discusses a movie and its accuracy, having no relation to smart glasses or facial recognition."
+o57itnu,False,neutral,0.0,"The comment references a past student demonstration, not Meta's current Name Tag feature."
+o57mgdp,False,neutral,0.0,The comment is a general expression of frustration and is not specific to the Name Tag feature or facial recognition.
+o57mi7l,False,neutral,0.0,The comment is too vague and lacks any mention of facial recognition or Meta's Name Tag feature.
+o57oz4u,False,neutral,0.0,"The comment mentions 'Palantir glasses,' which is not Meta's Ray-Ban Meta AI or its Name Tag feature."
+o57r2cg,False,neutral,0.0,"The comment references old Google Glass backlash, not Meta's Name Tag or current facial recognition features."
+o57rpqc,True,neutral,0.0,"The comment questions the scope of the AI's search capabilities, which relates to how facial recognition might function."
+o57s6ug,False,neutral,0.0,The comment is too vague and lacks specific mention of Meta's Name Tag or facial recognition features.
+o57t6pn,False,neutral,0.0,"The comment is a personal attack and does not mention Meta, smart glasses, or facial recognition."
+o57tjc2,True,neutral,0.0,"The comment discusses the utility and personal aversion to facial recognition, directly addressing the core topic."
+o57z8ki,True,negative,-0.7,"The comment implies surveillance or forced compliance regarding a feature, suggesting negative sentiment toward its implementation."
+o57zzjq,False,neutral,0.0,"The comment is a hypothetical, extreme suggestion unrelated to the functionality or sentiment of Meta's Name Tag feature."
+o584n41,True,negative,-0.8,"The comment criticizes Meta's timing of a feature, implying a premeditated attack on privacy."
+o585c3g,False,neutral,0.0,"The comment is a general, aggressive retort about distraction and is not about Meta's Name Tag feature."
+o588pfo,False,neutral,0.0,The comment is too vague ('They are all the same') to relate specifically to Name Tag or facial recognition.
+o58a15v,False,neutral,0.0,The comment is too vague to determine if it refers specifically to the Name Tag facial recognition feature.
+o58brgt,True,negative,-0.8,Expresses strong concern and distrust regarding invasive facial recognition and data scraping capabilities.
+o58c009,False,neutral,0.0,The comment is too vague and lacks context regarding Meta's Name Tag or facial recognition feature.
+o58csw4,False,neutral,0.0,The comment is too vague ('Can there be any counter-measure?') to be tied specifically to Name Tag or facial recognition.
+o58cxth,False,neutral,0.0,"The comment discusses potential bans on smart glasses generally, not specifically Meta's Name Tag facial recognition feature."
+o58fequ,False,neutral,0.0,"The comment is a broad philosophical statement about the state of the world, not specific to Meta's Name Tag feature."
+o58gfv5,True,negative,-0.9,"The term 'panopticon' strongly implies surveillance and distrust, directly relating to facial recognition technology."
+o58gq8i,True,negative,-0.7,"It discusses the potential for state security access to facial recognition logs, implying privacy concerns about the feature."
+o58i68z,False,neutral,0.0,"The comment expresses general discomfort with being watched, not specifically about Meta's Name Tag feature."
+o58n4nk,False,neutral,0.0,"The comment is a general critique of data monetization, not specifically about Name Tag or facial recognition features."
+o58skqq,False,neutral,0.0,The comment is too vague and lacks context regarding Meta's Name Tag or facial recognition features.
+o58tonc,True,negative,-0.5,The user expresses frustration/disapproval regarding the implementation (or lack thereof) of a feature related to facial recognition.
+o58weuo,False,neutral,0.0,"The comment is a historical comparison to early wearable tech, not discussing Meta's Name Tag feature."
+o58y0g3,False,neutral,0.0,The comment is a general statement about app usage and does not mention Name Tag or facial recognition.
+o595tqk,False,neutral,0.0,"The comment is too vague and does not mention facial recognition, Name Tag, or Meta's smart glasses."
+o599sbo,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition."
+o59aj52,False,neutral,0.0,"The comment is a general philosophical disagreement about prediction and storytelling, not about Meta's Name Tag feature."
+o59k28p,True,negative,-0.8,"The comment implies surveillance, directly relating to the privacy concerns surrounding facial recognition features like Name Tag."
+o59rxxh,False,neutral,0.0,"The comment is an unrelated threat against Mark Zuckerberg, not about Meta's Name Tag feature."
+o5a2yrp,True,negative,-0.7,The comment directly questions the implications and privacy concerns of facial recognition technology on the glasses.
+o5a6blm,False,neutral,0.0,The comment discusses work hours and is completely unrelated to smart glasses or facial recognition.
+o5ajuvv,False,neutral,0.0,The comment is too short and lacks context to be related to Meta's Name Tag or facial recognition features.
+o5akim5,False,neutral,0.0,"The comment is a general political/social commentary and does not mention Meta, Name Tag, or facial recognition."
+o5antwi,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition."
+o5ap0fz,False,neutral,0.0,"The comment is a generic, personal jab and does not mention Meta, Name Tag, or facial recognition."
+o5ayqoy,False,neutral,0.0,The comment is a general statement about corporate security and is not specific to Meta's Name Tag feature.
+o5bg9wd,False,neutral,0.0,"The comment is a general dismissal of the glasses, not specifically about the Name Tag or facial recognition feature."
+o5bjjo0,True,negative,-0.5,"The comment suggests 'predatory reasons' for the feature, indicating skepticism toward its purpose."
+o5bmpa2,False,neutral,0.0,"The comment is a general condemnation of Meta, not specific to the Name Tag or facial recognition feature."
+o5chje9,True,negative,-0.7,The comment expresses concern that facial recognition features will cause user backlash and product rejection.
+o5ci04c,False,neutral,0.0,"The comment is a general, unrelated statement about workplace behavior and security."
+o5cifwc,False,neutral,0.0,"The comment discusses destroying sensors generally, not specifically Meta's Name Tag or facial recognition features."
+o5cihav,False,neutral,0.0,"The comment is a general rant against a company and does not mention Meta, Name Tag, or facial recognition."
+o5ckfih,False,neutral,0.0,"The comment is a general, hyperbolic statement and does not mention Name Tag or facial recognition."
+o5cr1xy,False,neutral,0.0,"The comment is a general, unrelated cultural commentary and does not mention Meta, Name Tag, or facial recognition."
+o5fzjl8,False,neutral,0.0,The comment is too general ('Meta glasses need to be banned') and does not specifically mention Name Tag or facial recognition.
+o65kfck,False,neutral,0.0,"The comment is a moderation notice regarding a removed post, not a discussion about Name Tag or facial recognition."
+o67cbmv,False,neutral,0.0,The comment is too vague ('one can dream') to be substantively about the Name Tag feature.
+o67cffa,False,neutral,0.0,"The comment is a general, aggressive statement and does not mention Meta, Name Tag, or facial recognition."
+o67ct3g,False,neutral,0.0,"The comment is a general, aggressive statement and does not mention Meta, Name Tag, or facial recognition features."
+o8w8b65,False,neutral,0.0,"The comment is a vague, enthusiastic statement about cameras, not specifically about Meta's Name Tag or facial recognition."
+o984ajj,False,neutral,0.0,The comment is an automated moderation reminder about subreddit rules and privacy FAQs.
+o9850ja,True,negative,-0.5,"The comment links to an article titled 'Meta Ray-Bans are a privacy disaster,' directly addressing privacy concerns related to Meta's glasses."
+o98ees3,False,neutral,0.0,"The comment discusses surveillance and police monitoring, not Meta's Name Tag facial recognition feature."
+o994ldr,False,neutral,0.0,"The comment discusses data annotation and privacy generally, not specifically Meta's Name Tag feature."
+o99raz8,False,negative,-0.7,"The comment is a general critique of Meta's privacy practices, not specifically about the 'Name Tag' feature."
+o99sj4v,False,neutral,0.0,"The comment is a single, unrelated word and provides no information about Meta's Name Tag feature."
+o9a5q2t,False,neutral,0.0,The comment is a general question about the phrase 'double headed sword' and is not related to smart glasses or facial recognition.
+o9atbo8,False,neutral,0.0,"The comment discusses surveillance and normalization of recording devices generally, not specifically Meta's Name Tag feature."
+o9g2ock,False,neutral,0.0,"The comment discusses privacy concerns in a gym setting, not Meta's Name Tag or facial recognition features."
+o9g8fvi,False,neutral,0.0,"The comment is a general critique of being filmed, not specifically about Meta's Name Tag or facial recognition features."
+o9g8lz7,False,neutral,-0.2,"The comment is a general critique of corporations and surveillance, not specifically about Name Tag or facial recognition features."
+o9g8pye,False,neutral,0.0,"The comment discusses privacy laws in specific locations, not the Name Tag feature or facial recognition technology."
+o9mftlu,False,neutral,0.0,"The comment discusses a Bluetooth detection app, not Meta's Name Tag or facial recognition features."
+o9ohr8o,False,neutral,0.0,The comment is a simple question about iOS compatibility and does not mention Name Tag or facial recognition.
+o9y269x,False,neutral,0.0,The comment is an automated moderation reminder about subreddit rules and privacy FAQs.
+og4jf60,False,neutral,0.0,The comment is an automated moderation reminder about subreddit rules and privacy FAQs.
+og4l396,True,negative,-0.7,Expresses strong concern over the increasing ease of facial recognition and the need for regulation.
+og4mk8f,False,neutral,0.0,"The comment is a common idiom and does not mention Meta, facial recognition, or smart glasses."
+og4oi0z,True,negative,-0.8,"The comment directly criticizes the 'Name Tag' feature, citing concerns about creepiness and fraud."
+og4p2qg,True,negative,-0.5,"It raises a legal/privacy concern directly related to biometric scanning, which is central to Name Tag."
+og4p6jl,False,neutral,0.0,"The comment is vague and does not mention facial recognition, Name Tag, or Meta's specific features."
+mkzr0vl,False,neutral,0.0,The comment is too vague ('Ai generated? Lol') to relate specifically to Name Tag or facial recognition.
+ml2tv12,False,neutral,0.0,"The comment is meta-commentary about the user's own editing process, not about the smart glasses feature."
+ml3fogy,False,neutral,0.0,"The comment discusses prescription lens adaptation, not Meta's Name Tag or facial recognition features."
+ml6d97p,False,neutral,0.0,The comment is too vague ('Is this really a thing?') to determine relevance to Name Tag or facial recognition.
+ml83q8x,False,neutral,0.0,"The comment discusses general camera quality and market success, not Meta's Name Tag or facial recognition."
+mla5ght,False,neutral,0.0,"The comment discusses industrial applications and custom inserts, not Meta's Name Tag or facial recognition."
+mlrbuel,False,neutral,0.0,"The comment is a generic acknowledgment to ChatGPT and does not mention Meta, Name Tag, or facial recognition."
+mlrmv5l,False,neutral,0.0,"The comment is a meta-commentary about the thread's topic, not about the Name Tag feature itself."
+mlrt6uj,False,neutral,0.0,The comment is a broad market overview and does not mention Meta's Name Tag or facial recognition features.
+mlt4xnn,False,neutral,0.0,"The comment is about reviewing a market overview of smart glasses, not Meta's Name Tag feature."
+mwj2v8k,False,neutral,0.0,"The comment discusses Vuzix hardware capabilities, not Meta's Name Tag or facial recognition."
+mwjq2yt,False,neutral,0.0,"The comment is too vague and does not mention Name Tag, facial recognition, or Meta's specific policies."
+mwjxjwn,False,neutral,0.0,"The comment discusses hardware comparisons (Vuzix Shield) and general product status, not Meta's Name Tag feature."
+mwkn5vo,False,neutral,0.0,"The comment discusses waveguides, enterprise use, and Vuzix, not Meta's Name Tag or facial recognition."
+mwkoevk,False,neutral,0.0,"The comment discusses Raytheon and a companion app, not Meta's Name Tag or facial recognition features."
+mqglbpi,False,neutral,0.0,"The comment discusses open-source hardware and 3D printing, not Meta's Name Tag or facial recognition."
+mqgvn64,False,neutral,0.0,The comment is too brief and lacks any substantive content regarding Name Tag or facial recognition.
+mqhlclo,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition."
+mqi9rzj,False,neutral,0.0,"The comment is too vague and does not mention facial recognition, Name Tag, or Meta's specific features."
+mqi9wzy,False,neutral,0.0,"The comment discusses AI topic drift regarding news from India, not facial recognition or Name Tag."
+mqigxh1,False,neutral,0.0,"The comment discusses a GitHub repository for open-source glasses, not Meta's Name Tag feature."
+mqihcsm,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition."
+mqjikm0,False,neutral,0.0,"The comment discusses AI's topic selection bias (sports news), not facial recognition or Name Tag features."
+mqtx1gv,False,neutral,0.0,The comment is a general complaint about power consumption and lacks specific mention of Name Tag or facial recognition.
+myiv9dp,False,neutral,0.0,"The comment focuses on desired features (HUD, camera, AI chat) and not on Name Tag or facial recognition."
+myjzms3,False,neutral,0.0,"The comment discusses a desire for a video HUD, not Meta's Name Tag or facial recognition features."
+myk58q9,False,neutral,0.0,"The comment discusses productivity features like multi-screen displays and teleprompters, not facial recognition."
+mypjnv1,False,neutral,0.0,"The comment discusses screen replacement and FOV, not Meta's Name Tag or facial recognition features."
+novluz0,False,neutral,0.0,The comment is too vague ('Huge potential!') to be specifically about the Name Tag or facial recognition feature.
+np19f7i,False,neutral,0.0,"The comment is too generic ('Wow, awesome idea!') to be specifically about the Name Tag feature."
+np19lu3,False,neutral,0.0,The comment is a generic acknowledgment ('Thanks!!') and contains no discussion of Name Tag or facial recognition.
+np1al6n,False,neutral,0.0,The comment is too vague ('Cant wait to see results') to be specifically about Name Tag or facial recognition.
+nwetl3j,False,neutral,0.0,"The comment is just a link to a general review, not discussing Name Tag or facial recognition."
+nwfd68q,False,neutral,-0.2,"The comment expresses general skepticism about Meta's product quality and pricing, not specifically about the Name Tag feature."
+nwg679x,False,neutral,0.0,"The comment discusses general product reviews, longevity, and local AI, not Meta's Name Tag feature."
+nwg6kzw,False,neutral,0.0,"The comment discusses the credibility of the original poster, not the Name Tag feature or facial recognition."
+nwgaysx,False,neutral,0.1,"The comment discusses general smart glasses adoption, competitors, and features, but does not mention Meta's Name Tag or facial recognition."
+nwgelic,False,neutral,0.1,"The comment discusses general smart glass features and privacy concerns, but does not mention Meta's 'Name Tag' or facial recognition."
+nwgrmdv,False,neutral,0.0,"The comment discusses Palmer Luckey and a past presentation, not Meta's Name Tag or facial recognition features."
+nwhc81e,False,neutral,0.0,"The comment discusses general smart device trends and privacy, not Meta's Name Tag facial recognition."
+nwjq7su,False,neutral,0.0,"The comment discusses water resistance issues with the glasses, not the Name Tag facial recognition feature."
+nwjwyo0,False,neutral,0.0,"The comment is a clarifying question about which specific smart glasses are being discussed, not about the Name Tag feature."
+nwjy6v1,False,neutral,0.0,"The comment discusses features like summaries, speakers, and general investment, not Name Tag or facial recognition."
+nwlr4o6,False,neutral,0.0,"The comment discusses general device fragmentation and form factors, not Meta's Name Tag feature."
+nwmzi2s,False,neutral,0.0,"The comment focuses entirely on hardware quality, support issues, and pricing, not facial recognition."
+nwzk8nx,False,neutral,0.0,"The comment is a general statement about waiting for Google glasses, not about Meta's Name Tag feature."
+nx0xow6,False,neutral,0.0,"The comment is too vague and only references a previous post, not the Name Tag feature."
+nx31vgq,False,neutral,0.0,The comment is a generic question about AI/LLMs and does not mention Name Tag or facial recognition.
+ny0wvet,False,neutral,0.0,"The comment is a general update about ordering smart glasses, not discussing facial recognition or Name Tag."
+nzq8kqo,False,neutral,0.0,"The comment discusses order dates and shipping, not the Name Tag or facial recognition feature."
+o1340yx,False,neutral,0.0,"The comment discusses shipping delays and customer service, not facial recognition or Name Tag features."
+o1555jt,False,neutral,0.0,"The comment discusses hardware upgrades (G1 to G2) and third-party apps, not facial recognition features."
+o7e94y4,False,neutral,0.0,The comment is a generic reminder and contains no discussion about Meta's Name Tag or facial recognition.
+o7e9caj,False,neutral,0.0,The comment is a boilerplate reminder message and contains no discussion about Meta's Name Tag feature.
+ob5b62e,False,neutral,0.0,The comment is a generic announcement about a review and does not mention Name Tag or facial recognition.
+odyuixu,False,neutral,0.0,"The comment focuses on captioning for hearing impairment, not facial recognition features."
+ofmvnlg,False,neutral,0.0,"The comment discusses captions, not the Name Tag facial recognition feature."
+ogp9ixm,False,neutral,0.0,"The comment is a generic purchasing question about the G2 model, not about facial recognition."
+o8vdp15,True,neutral,0.1,"Mentions ethical concerns and skepticism regarding recording in public, touching on the privacy aspect of the tech."
+o8z7ttv,False,neutral,0.1,"The comment focuses on general features (audio, video) and user experience, not Name Tag or facial recognition."
+o96leok,False,neutral,0.0,"The comment discusses Oakley glasses, lenses, and discounts, not Meta's Name Tag or facial recognition."
+o98ac3t,False,neutral,0.1,"The comment discusses general hands-free features (calls, music) and not facial recognition or Name Tag."
+oabv8wz,False,neutral,0.0,"The comment discusses Meta AI generally, not specifically the Name Tag facial recognition feature."
+ob3yuw8,False,neutral,0.0,"The comment focuses on comfort and workplace perception, not Meta's Name Tag or facial recognition features."
+oey1qqc,False,neutral,0.0,"The comment discusses poor customer service and product quality of Oakley glasses, not Meta's Name Tag feature."
+ogq3rpj,False,neutral,-0.3,"The comment focuses on general AI/voice assistant usability, not Meta's Name Tag facial recognition feature."
+o982jc7,False,neutral,0.0,"The comment discusses the physical size of the glasses, not the Name Tag or facial recognition feature."
+o98fwpf,False,neutral,0.0,"The comment discusses audio functionality and product availability, not facial recognition or Name Tag."
+o98xav5,False,neutral,0.0,"The comment discusses G2 ads and audio, which is unrelated to Meta's Name Tag or facial recognition."
+o99761x,False,neutral,0.0,The comment suggests an alternative product (Xiaomi) and does not discuss Meta's Name Tag feature.
+o99u7e4,False,neutral,0.0,The comment mentions 'Lucyd' and provides no information regarding Meta's Name Tag or facial recognition features.
+o9a2o8g,False,neutral,0.0,"The comment discusses Amazon Echo Frames, not Meta's Name Tag facial recognition feature."
+o9bu0xu,False,neutral,0.0,"The comment is about product availability in Canada, not the Name Tag or facial recognition feature."
+o9cb1mm,False,neutral,0.0,"The comment discusses stock availability and a missing camera, not facial recognition or Name Tag features."
+o9eyd4k,False,neutral,0.0,"The comment is a generic positive statement about the glasses fitting needs, not about Name Tag or facial recognition."
+o9kna55,False,neutral,0.0,"The comment discusses an older, unrelated pair of headphones, not Meta's Name Tag feature."
+o9kzzc5,False,neutral,0.0,"The comment discusses AI glasses without cameras for business, not Meta's Name Tag facial recognition."
+o9t2403,False,neutral,0.0,"The comment discusses audio-only alternatives to smart glasses, not Meta's facial recognition feature."
+oa06oc4,False,neutral,0.0,"The comment discusses alternative brands and features (bone conduction), not Meta's Name Tag or facial recognition."
+ob9vbck,False,neutral,0.0,"The comment discusses a competitor's glasses (Dymesty) and general features, not Meta's Name Tag feature."
+odwr3d0,False,neutral,0.0,The comment is too vague ('I can’t find them') and does not mention Name Tag or facial recognition.
+odwraxp,False,neutral,0.0,"The comment is about Amazon Echo glasses, not Meta's Name Tag facial recognition feature."
+ofin9l3,False,neutral,0.0,"The comment discusses sound quality, not the Name Tag facial recognition feature."
+ogshthw,False,neutral,0.0,"The comment discusses the Echo Frames 3s and discontinuation, not Meta's Name Tag facial recognition feature."
+ogtqo02,False,neutral,0.0,The comment is too vague ('Aww damn. Ok') to indicate any specific sentiment toward the Name Tag feature.
+oa5seh2,False,neutral,0.1,"The comment discusses general privacy concerns of smart glasses, not specifically Meta's Name Tag facial recognition feature."
+oa60lsr,False,neutral,0.0,"The comment discusses Bluetooth codes and device detection, not facial recognition or Name Tag features."
+oa75hrx,False,neutral,0.0,"The comment is a general, sarcastic remark about technology and is not related to Meta's Name Tag feature."
+oa7jogp,False,neutral,0.0,"The comment is a general privacy concern about surveillance, not specifically about Meta's Name Tag feature."
+oa7yjls,True,neutral,0.0,"It touches on the broader theme of public surveillance, which relates to facial recognition technology."
+oauf156,True,negative,-0.6,"The comment satirizes the intrusive nature of facial recognition, implying unwanted surveillance."
+oaufnqm,False,neutral,0.0,"The comment discusses Bluetooth and general recording functionality, not the Name Tag or facial recognition feature."
+odxqgqe,False,neutral,0.0,"The comment is a generic suggestion to check other review sources, not discussing Name Tag or facial recognition."
+odyb9s7,False,neutral,0.0,"The comment discusses Snapchat and iVue Glide recording capabilities, not Meta's Name Tag feature."
+odyfku6,False,neutral,0.0,"The comment is a link to an unrelated product on Amazon, not discussing Meta's Name Tag feature."
+odysiry,False,neutral,0.0,"The comment is about the physical design of the glasses, not the facial recognition feature."
+odyufgt,False,neutral,0.0,"The comment discusses content creation and POV filming, not Meta's Name Tag or facial recognition features."
+odzn0ct,False,neutral,0.0,"The comment discusses video recording orientation and camera quality, not Meta's Name Tag or facial recognition."
+oe1f2dy,False,neutral,0.0,"The comment only discusses turning off AI features and camera quality, not facial recognition."
+oe4j3cv,False,neutral,0.0,"The comment discusses privacy and bypassing account requirements, not the Name Tag feature itself."
+oe4maeo,False,neutral,0.0,"The comment discusses data privacy and account usage, not the Name Tag facial recognition feature specifically."
+oe57p8t,False,neutral,0.0,"The comment discusses app dependency and data privacy generally, not specifically Meta's Name Tag facial recognition feature."
+oe5bmth,False,neutral,0.0,"The comment discusses local vs. cloud storage of videos, not facial recognition or Name Tag features."
+oe7o5ed,True,negative,-0.7,"The linked article discusses data privacy concerns related to Meta's AI smart glasses, which directly relates to facial recognition."
+oeebp50,False,neutral,0.0,The comment is too vague ('Girl me too!') and provides no information about Name Tag or facial recognition.
+oeeekdz,False,neutral,0.0,"The comment discusses DIY camera setups, not Meta's Name Tag or facial recognition features."
+oeefsop,False,neutral,0.0,"The comment discusses tampons and menstrual products, completely unrelated to smart glasses or facial recognition."
+oehfxcp,False,neutral,0.0,"The comment discusses chest mounts for BG, which is unrelated to Meta's Name Tag or facial recognition."
+of1ox0z,False,neutral,0.0,"The comment discusses a DJI Osmo camera setup, which is unrelated to Meta's Name Tag facial recognition feature."
+og4pki0,False,neutral,0.0,"The comment is a general expression of distrust toward Meta's platforms, not specific to the Name Tag feature."
+og8kt2i,False,neutral,0.0,"The comment is a generic question about Reddit and does not mention Meta, Name Tag, or facial recognition."
+oguyc4q,False,neutral,0.0,"The comment discusses personal information on a Facebook account, not Meta's Name Tag or facial recognition features."
+ohf0bdm,False,neutral,0.0,"The comment focuses on build quality, durability, and general features, not facial recognition or Name Tag."
+ohgb9dj,False,neutral,0.0,"The comment is a generic positive endorsement of the glasses, lacking any mention of facial recognition or Name Tag."
+ohgc6j2,False,neutral,0.0,"The comment discusses IP rating and materials, not facial recognition or Name Tag features."
+ohh5x7b,False,neutral,0.0,The comment is a general expression of anticipation and does not mention Name Tag or facial recognition.
+ohh9jhk,False,neutral,0.0,"The comment only discusses a Kickstarter launch date, not the Name Tag or facial recognition feature."
+mf7yi4n,False,neutral,0.0,"The comment discusses general smart glass adoption issues (apps, gimmicks) but does not mention Name Tag or facial recognition."
+n2038jm,False,neutral,0.0,"The comment discusses display specs (1440p, FoV) and AndroidXR, not Meta's Name Tag or facial recognition."
+n20c98l,False,neutral,0.0,"The comment discusses camera specifications (3-camera, 6DoF) and model choices, not facial recognition."
+n22ttb3,False,neutral,0.0,The comment is a generic acknowledgment and offers no substantive information about Name Tag or facial recognition.
+n22u6cv,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition."
+n237lg9,False,neutral,0.0,The comment is too brief ('Exactly') to provide any substantive information about the Name Tag feature.
+n23lb65,False,neutral,0.0,The comment is a generic agreement ('Literally my thoughts exactly') and provides no specific content about Name Tag or facial recognition.
+n8awtnq,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition."
+n8az7w3,False,neutral,0.0,"The comment discusses general compute limitations and 5G latency, not Meta's Name Tag feature."
+n8baqz6,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition."
+n8dac63,False,neutral,0.0,"The comment is a short, unrelated phrase and does not mention facial recognition or Meta's Name Tag feature."
+n8f7chm,False,neutral,0.0,The comment is an emoji/insult and contains no discussion about Meta's Name Tag or facial recognition.
+n8f7oiv,False,neutral,0.0,"The comment discusses general smart glass feasibility and hardware improvements, not Meta's Name Tag feature."
+n8fm77q,False,neutral,0.0,"The comment critiques the hardware design and AI maturity, not the Name Tag facial recognition feature specifically."
+n8fmb90,False,neutral,0.0,The comment compares Meta's feature to a competitor's product without discussing Name Tag or facial recognition policy.
+n8fmezf,False,neutral,0.0,The comment is too generic about market competition and lacks specific mention of Meta's Name Tag or facial recognition.
+n8h2a27,False,neutral,0.1,"The comment discusses general hardware/software challenges in smart glasses, not Meta's Name Tag feature."
+nb10hcd,False,neutral,0.0,The comment is only questioning the setting of a photo and does not discuss facial recognition or Name Tag.
+nb10lpo,False,neutral,0.0,"The comment is just an image link and text 'Expert panel,' offering no substantive discussion on Name Tag or facial recognition."
+nb113p0,False,neutral,0.0,The comment is about a contest win and does not mention Meta's Name Tag or facial recognition features.
+nb13qo3,False,neutral,0.0,"The comment discusses display features and software bugs, not facial recognition or Name Tag."
+nb14g71,False,neutral,0.0,"The comment discusses driving safety and phone use, not Meta's Name Tag or facial recognition features."
+nb14y5o,False,neutral,0.0,"The comment discusses general driving features of the glasses, not facial recognition or Name Tag."
+nb1brpt,False,neutral,0.0,The comment is a general warning about driving safety and is not about facial recognition or Meta's smart glasses features.
+nb1ezpm,False,neutral,0.0,The comment is a general safety warning about driving and is not related to facial recognition or Meta's Name Tag feature.
+nb1gxjh,False,neutral,0.0,"The comment discusses notifications while driving, not facial recognition or Name Tag features."
+nb1jvd3,False,neutral,0.0,"The comment discusses general notification delivery methods (email/car systems), not Meta's Name Tag facial recognition feature."
+nb1kv3s,False,neutral,0.0,"The comment discusses issues with old work vehicles and communication, not smart glasses or facial recognition."
+nb1v1ff,False,neutral,0.0,The comment is about travel plans and is completely unrelated to smart glasses or facial recognition.
+nbponiu,False,neutral,0.0,"The comment discusses language support, which is unrelated to facial recognition or Name Tag features."
+nbqhmwe,False,neutral,0.0,"The comment is about a different project (Rokid) and SDK, not Meta's Name Tag feature."
+ncucqct,False,neutral,0.0,"The comment is only about purchasing location, not the Name Tag or facial recognition feature."
+nil92ge,False,neutral,0.0,"The comment is a general critique of VR/XR technology, not specifically about Meta's Name Tag feature."
+nilnqbt,False,neutral,0.0,"The comment discusses the display size and functionality of the glasses, not facial recognition or Name Tag."
+nilwtf0,False,neutral,0.0,"The comment discusses using the glasses for biking directions, not facial recognition or Name Tag."
+nim10fc,False,neutral,0.0,"The comment discusses recording duration and storage, not Meta's Name Tag or facial recognition features."
+nimj3av,False,neutral,0.0,"The comment discusses prescription lens options, not facial recognition or Name Tag features."
+nimnf8p,False,neutral,0.0,"The comment is about capitalization in a text, not Meta's facial recognition feature."
+nimpgpj,False,neutral,0.0,"The comment discusses SDK limitations and battery life, not facial recognition or Name Tag."
+nimq8s3,False,neutral,0.0,The comment is about a personal typo and has no connection to smart glasses or facial recognition.
+nimqk9s,False,neutral,0.0,"The comment discusses recording limits and battery constraints, not facial recognition or Name Tag features."
+nimt297,False,neutral,0.0,"The comment discusses gestures and future hardware, not Meta's Name Tag or facial recognition."
+nimt7zb,False,neutral,0.0,The comment discusses the nature of the glasses (HUD vs AR) but does not mention facial recognition or Name Tag.
+nimtddc,False,neutral,0.0,"The comment discusses recording limitations (thermals/resolution), not facial recognition or Name Tag features."
+nimus3t,False,neutral,0.0,"The comment is a general defense of early adoption, not specific to Name Tag or facial recognition."
+nimzf9k,True,negative,-0.8,"The comment directly attacks the product's function, implying the facial recognition feature is flawed or insulting."
+nin3ftp,False,neutral,0.0,The comment is a generic question seeking context and does not mention Name Tag or facial recognition.
+nin83a1,False,neutral,0.0,The comment is a generic insult and contains no discussion about Meta's Name Tag or facial recognition.
+ninb76m,False,neutral,0.0,"The comment is a general critique comparing different VR/AR products, not about Meta's Name Tag feature."
+ninci0d,False,neutral,0.0,The comment is only a single word and provides no substantive information regarding the Name Tag feature.
+ninf9gb,False,neutral,0.0,"The comment is a link to a developer FAQ and mentions vague future capabilities, not discussing Name Tag or facial recognition."
+ning99s,False,neutral,0.0,The comment is too vague and provides no information regarding facial recognition or Name Tag features.
+ninh7u4,False,neutral,0.0,The comment is a generic dismissal of technology and does not mention Name Tag or facial recognition.
+nino35h,False,neutral,0.0,"The comment discusses thermal issues and data transmission, not facial recognition or Name Tag."
+ninoag6,False,neutral,0.0,"The comment is a general dismissal of smart glasses, not specifically addressing the Name Tag or facial recognition feature."
+ninowsy,False,neutral,0.0,"The comment discusses general AR/VR categories and pricing, not Meta's Name Tag facial recognition feature."
+ninpgoh,False,neutral,0.0,"The comment is a general dismissal of the product, not specifically addressing the Name Tag or facial recognition feature."
+ninponh,False,neutral,0.0,The comment is a general statement about first-generation technology and lacks specific mention of Name Tag or facial recognition.
+ninw9x2,False,negative,-0.6,"The comment criticizes the general direction of smart glasses, not specifically Meta's Name Tag facial recognition feature."
+nio0637,False,neutral,0.0,"The comment compares Xreal glasses to an unspecified product, not discussing Meta's Name Tag feature."
+nio0pcs,False,neutral,0.0,"The comment is about general excitement for SDK development, not specifically the Name Tag or facial recognition feature."
+niopv60,False,neutral,0.0,"The comment discusses knock-offs vs. Meta glasses generally, not the Name Tag or facial recognition feature."
+nip8n1u,False,neutral,0.0,"The comment discusses a demo and battery life claims, not Meta's Name Tag or facial recognition features."
+nipdj8h,False,neutral,0.1,"The comment discusses Meta's general history and HUD impressions, but does not mention Name Tag or facial recognition."
+niph2lu,False,neutral,0.0,"The comment discusses general AI features and software quality, not Meta's Name Tag or facial recognition."
+nipud2j,False,neutral,0.0,The comment is a generic acknowledgment and contains no discussion about Name Tag or facial recognition.
+nipw52s,False,neutral,0.0,"The comment discusses Meta's general hardware history and Ray-Ban limitations, but does not mention Name Tag or facial recognition."
+niqsd9z,False,neutral,0.0,"The comment discusses sales projections for smart glasses generally, not Meta's Name Tag facial recognition feature."
+nirmjyr,False,neutral,0.0,"The comment discusses Meta's general corporate culture and antitrust issues, not the Name Tag feature."
+nis8a3u,False,neutral,0.0,"The comment is a meta-commentary on the original post's tone, not about the Name Tag feature itself."
+nisybco,False,neutral,0.0,The comment discusses market monopolies (Apple/Meta) but does not mention Name Tag or facial recognition.
+nit9nwo,False,neutral,0.0,"The comment is about general satisfaction with the glasses, not the Name Tag or facial recognition feature."
+nitifxs,False,neutral,0.0,"The comment discusses general product performance and software, not Meta's Name Tag or facial recognition features."
+nitzb43,False,neutral,0.0,"The comment discusses general consumer electronics purchasing justification, not Meta's Name Tag or facial recognition."
+niv3ow2,False,neutral,0.0,The comment is a general comparison between two tech products and does not mention Meta's Name Tag feature.
+niwlnoh,False,neutral,0.0,"The comment discusses the current state of AR glasses generally, not Meta's Name Tag or facial recognition features."
+nizv4x7,False,neutral,0.0,"The comment discusses general product quality and pricing, not the Name Tag or facial recognition feature."
+njgjp8g,False,neutral,0.0,"The comment discusses hardware features (wristband, charging port) and future displays, not facial recognition."
+no4peyp,False,neutral,0.0,"The comment discusses dual displays and manufacturing costs, not facial recognition or Name Tag."
+no7nzsl,False,neutral,0.0,The comment is too brief ('Yes they are.') to provide any substantive information about the Name Tag feature.
+npo30et,False,neutral,0.1,"The comment discusses hardware issues and platform limitations of competitor glasses, not Meta's Name Tag feature."
+npocr7t,False,neutral,0.0,"The comment is a generic encouragement about getting a beta pair, not discussing Name Tag or facial recognition."
+nycacfh,False,neutral,0.0,"The comment discusses production costs and market saturation, not the Name Tag feature or facial recognition."
+nycahkj,False,neutral,0.0,"The comment discusses general dissatisfaction with Oculus products, not Meta's Name Tag or facial recognition features."
+nycdxf8,False,neutral,0.0,"The comment discusses general AR adoption and display needs, not Meta's Name Tag or facial recognition."
+nycgaqd,False,neutral,0.0,"The comment discusses AR HUD pricing and form factors, not Meta's Name Tag facial recognition feature."
+nycj9dv,False,neutral,0.0,"The comment discusses hardware costs (BOM, R&D) and pricing, not facial recognition or Name Tag."
+nycku27,False,neutral,0.0,The comment is a general agreement/disagreement statement and does not mention Name Tag or facial recognition.
+nycq2rg,False,neutral,0.0,"The comment is a general critique of the price point for AR hardware, not specific to Name Tag or facial recognition."
+nycxl7u,False,neutral,0.0,"The comment discusses various smart glasses features (modems, resolution) but does not mention Meta's Name Tag or facial recognition."
+nyczcc8,False,neutral,0.0,"The comment discusses future pricing and hardware upgrades, not facial recognition or Name Tag."
+nyd0zg6,False,neutral,0.1,"The comment discusses general display issues and future form factors, not Meta's Name Tag facial recognition."
+nydlbm7,False,neutral,0.0,"The comment discusses general optical and camera technology timelines, not Meta's Name Tag feature."
+nyeexux,False,neutral,0.0,"The comment discusses building a custom solution for XReal One glasses, not Meta's Name Tag feature."
+nyeqd1k,False,neutral,0.0,"The comment discusses general limitations of portable computing and XR software, not Meta's Name Tag feature."
+nyg9wku,False,neutral,0.0,"The comment discusses general future technology trends, not Meta's Name Tag or facial recognition."
+nyghfpm,False,neutral,0.0,"The comment discusses general AR/smart glasses market growth, not Meta's Name Tag feature."
+nygk9bh,False,neutral,0.0,"The comment discusses the price and materials of the glasses, not the Name Tag or facial recognition feature."
+nyh7co0,False,neutral,0.0,"The comment discusses screen size and resolution, not the Name Tag or facial recognition feature."
+nyhu5ic,False,neutral,0.0,"The comment discusses production costs and ChatGPT, not Meta's Name Tag or facial recognition features."
+nyi4l5g,False,neutral,0.0,"The comment discusses gaming and eyesight issues, not Meta's Name Tag or facial recognition features."
+nyoceey,False,neutral,0.0,"The comment discusses semiconductor manufacturing (SiC factory) and production yields, not facial recognition or Name Tag."
+nypm39m,False,neutral,0.0,"The comment is too vague, referencing 'smartwatches' and 'those days' without mentioning Name Tag or facial recognition."
+o5b2qvv,True,negative,-0.7,The comment directly questions the implementation of a feature (implied facial recognition/Name Tag) and expresses distrust in Meta.
+o5ebul7,True,negative,-0.3,Implies a lack of regulatory control over Meta's facial recognition features.
+o5ebzji,False,neutral,0.0,The comment references 'Palantir' and 'person detection' but does not specifically discuss Meta's Name Tag or facial recognition on Ray-Ban Meta glasses.
+o5egwbo,True,positive,0.6,"The comment explicitly supports the 'opt in idea,' which relates directly to the privacy aspect of the Name Tag feature."
+o5faq0a,True,negative,-0.6,"The comment links new features to 'privacy killing,' suggesting negative sentiment toward surveillance tech like facial recognition."
+o5gfxiq,False,neutral,0.0,"The comment focuses on battery life and recording limits, not the Name Tag or facial recognition feature."
+o603zrc,False,neutral,0.0,"The comment discusses a new AR social app, not Meta's Name Tag or facial recognition features."
+o8vlhdj,False,neutral,0.1,"Discusses general BLE privacy concerns with smart glasses, not Meta's Name Tag facial recognition."
+o8xlhbs,False,neutral,0.0,"The comment discusses recording indicators, not the specific Name Tag facial recognition feature."
+o8xlm5k,False,neutral,0.0,"The comment is too vague and does not mention facial recognition, Name Tag, or Meta's specific features."
+o8xlz3d,False,neutral,0.0,"The comment discusses hiding recording indicators, not the Name Tag facial recognition feature."
+o8yik5n,False,neutral,0.0,"The comment discusses Meta reviewing user-recorded videos, not specifically the Name Tag facial recognition feature."
+o8yqh3o,False,neutral,0.0,"The comment discusses camera privacy in general, not Meta's Name Tag or facial recognition features."
+o8yqqn4,False,neutral,0.0,The comment is too vague ('Not meta glasses then') to indicate any specific sentiment toward the Name Tag feature.
+o8yvsx4,False,neutral,0.0,The comment is too vague ('100% meta glasses') to indicate any specific sentiment toward the Name Tag feature.
+o8z0vi9,False,neutral,0.0,"The comment discusses recording functionality and luminosity checks, not facial recognition or Name Tag."
+o8zfkj1,False,neutral,0.0,"The comment discusses the physical materials and recording functionality of the glasses, not the Name Tag feature."
+o8zjouh,False,neutral,0.0,The comment is a simple statement of ownership and lacks any discussion about Name Tag or facial recognition.
+o8zkx9i,False,neutral,0.0,The comment is completely unclear and does not mention facial recognition or Meta's Name Tag feature.
+o8zn42t,False,neutral,0.0,"The comment is too generic and does not mention Meta, Name Tag, or facial recognition."
+o8zoql6,False,neutral,0.0,"The comment is a general, vague question about product availability and is not about facial recognition or Name Tag."
+o91gpd8,False,neutral,0.0,The comment expresses personal anger but is not related to Meta's Name Tag or facial recognition features.
+o91s3pl,False,neutral,0.1,"Discusses general AI data review practices, not specifically Meta's Name Tag feature."
+o93ip7j,False,neutral,0.0,"The comment discusses general surveillance and government spying, not Meta's Name Tag feature."
+o9418a3,False,neutral,0.0,"Discusses historical VR camera privacy concerns, not Meta's Name Tag facial recognition feature."
+o94lxfg,True,neutral,0.1,"It touches on the functionality of recording/identification, but the sentiment is conditional and mild."
+o96nprr,False,neutral,0.0,"The comment is a generic, conversational line and does not mention facial recognition or Name Tag features."
+o96nssx,False,neutral,0.0,"The comment is a short, cryptic exchange about privacy/security (VPN), not specifically about Meta's Name Tag feature."
+o983wqo,False,neutral,0.0,The comment is a general comparison to a TV show and does not mention facial recognition or Name Tag.
+o991dtu,False,neutral,0.0,The comment is too vague; it lacks specific context regarding Meta's Name Tag or facial recognition.
+o9926rp,False,neutral,0.0,"The comment is a general technical question about AR/XR capabilities, not specific to Meta's Name Tag feature."
+o9fub1s,False,neutral,0.0,"The comment discusses general hardware limitations (tracking, beacons) and not Meta's Name Tag facial recognition feature."
+o9hruv6,False,neutral,0.0,"The comment is too vague and does not specifically mention Name Tag, facial recognition, or Meta's policies."
+o9hu2bd,False,neutral,0.0,"The comment is too vague and does not mention Name Tag, facial recognition, or Meta's policies."
+o9hz38m,False,neutral,0.0,The comment is a political/social commentary and does not mention smart glasses or facial recognition.
+o9i26bn,False,neutral,0.0,The comment is too vague and does not specifically discuss Meta's Name Tag or facial recognition features.
+o9i2gy3,True,negative,-0.7,Expresses concern about Meta's facial recognition capabilities and potential government partnerships.
+o9i93wj,False,neutral,0.0,"The comment discusses AI training and military data collection generally, not Meta's Name Tag feature."
+o9ihvj7,True,neutral,0.0,The comment is a single keyword directly referencing the core technology (facial recognition) of interest.
+o9ipwn3,True,negative,-0.8,"The comment expresses strong concern about surveillance and recording, directly relating to facial recognition features."
+o9itzz1,False,neutral,0.0,The comment is a vague political question and does not mention Name Tag or facial recognition features.
+o9iwhki,False,neutral,0.0,"The comment discusses general issues of law enforcement and threats, not Meta's Name Tag feature."
+o9j0ku1,False,neutral,0.0,"The comment is a political statement and does not mention Meta, smart glasses, or facial recognition."
+o9j70z9,False,neutral,0.0,The comment is a general political/personal jab at Mark Zuckerberg and is not about the Name Tag feature.
+o9jahqp,True,negative,-0.8,"The comment expresses distrust and fear regarding recording capabilities, which relates to the privacy implications of facial recognition."
+o9jaqqf,False,neutral,0.0,"The comment discusses professional misconduct and pay, not Meta's Name Tag or facial recognition features."
+o9jb1by,False,neutral,0.0,The comment discusses the profession of a mercenary and is completely unrelated to smart glasses or facial recognition.
+o9jchl1,False,neutral,0.0,"The comment discusses ICE agents and mercenaries, which is unrelated to Meta's Name Tag feature."
+o9jcskq,False,neutral,0.0,"The comment is unrelated and appears to be a non-sequitur, not discussing facial recognition or Meta's features."
+o9jqq1x,False,neutral,0.0,"The comment is about recording/fighting back, not specifically Meta's Name Tag or facial recognition features."
+o9k42on,False,neutral,0.0,"The comment is a general statement about recording others, not specifically about Meta's Name Tag feature."
+o9k9qrq,False,neutral,0.0,"The comment is too vague and does not mention Meta, Ray-Ban, or facial recognition features."
+o9kebza,False,neutral,0.0,The comment is a general political/social commentary and does not mention Name Tag or facial recognition.
+o9kmodl,True,neutral,0.0,The comment links to an article specifically discussing Meta's Name Tag facial recognition feature and privacy.
+o9kpzyb,False,neutral,0.0,"The comment discusses combat gear and eye protection, which is unrelated to Meta's Name Tag feature."
+o9kts4r,False,neutral,0.0,"The comment discusses legal/police surveillance, not Meta's Name Tag or facial recognition features."
+o9kxlq0,False,neutral,0.1,"The comment discusses general recording/bodycam benefits, not specifically Meta's Name Tag facial recognition feature."
+o9kykbe,True,negative,-0.8,The comment implies misuse or privacy violation ('doxxing') related to facial recognition technology.
+o9l1pl4,True,negative,-0.8,"The comment implies the feature is for 'mass oppression,' indicating strong negative sentiment toward the facial recognition aspect."
+o9l73ju,False,neutral,0.0,The comment is a general dismissal of surveillance concerns and does not specifically address the Name Tag feature or facial recognition.
+o9m4hjq,False,neutral,0.0,The comment mentions Kenya and security but does not discuss Meta's Name Tag or facial recognition features.
+o9mx10u,False,neutral,0.0,The comment is a cryptic reference and does not discuss Meta's Name Tag or facial recognition features.
+o9n9ilq,False,neutral,0.0,"The comment discusses PPE and military deployment, not Meta's Name Tag or facial recognition features."
+o9nu2cy,True,neutral,0.0,"The comment directly mentions 'Facial detection,' which is central to the Name Tag facial recognition feature."
+o9p6yoc,False,neutral,0.0,"The comment is a general expression of frustration about echo chambers and does not mention Meta, Name Tag, or facial recognition."
+o9p9dqs,True,negative,-0.9,Expresses deep concern and distrust regarding Meta's facial recognition and data sharing capabilities.
+o9sb63u,False,neutral,0.0,"The comment discusses the definition of a threat in a general context, not smart glasses or facial recognition."
+o9t96nc,False,neutral,0.0,"The comment is too vague and does not mention Name Tag, facial recognition, or Meta's specific policies."
+o9t9aty,False,neutral,0.0,"The comment discusses general recording prohibitions, not Meta's Name Tag or facial recognition features."
+o9t9jsr,False,neutral,0.0,The comment is only an image/GIF and contains no discernible text or discussion about Name Tag or facial recognition.
+o9uiwp9,False,neutral,0.0,"The comment discusses translation and reading foreign documentation, not facial recognition or Name Tag features."
+o9vk8l7,False,neutral,0.0,"The comment is a personal, unrelated jab and does not discuss facial recognition or Meta's smart glasses features."
+o9vmomk,False,neutral,0.0,The comment is a conspiracy theory and has no relation to Meta's Name Tag or facial recognition features.
+o9wtz4r,False,neutral,0.0,"The comment is about FOIA and an account, not Meta's Name Tag or facial recognition features."
+o9xmcdd,False,neutral,0.0,"The comment discusses FOIA and recording devices generally, not Meta's Name Tag feature."
+oa4ufty,False,neutral,0.0,The comment is highly negative but lacks any specific mention of Name Tag or facial recognition features.
+oa4ws7n,True,negative,-0.7,"The comment draws a negative comparison to bodycams, implying disapproval of the surveillance aspect of the feature."
+oa5kyww,False,neutral,0.0,"The comment discusses gun control and ICE, not Meta's Name Tag or facial recognition features."
+oa5vewz,False,neutral,0.0,The comment is highly vulgar and does not discuss the Name Tag feature or facial recognition technology.
+oa6v3t4,False,neutral,0.0,"The comment discusses police use of force and personal accountability, not smart glasses or facial recognition."
+oa76umt,False,neutral,0.0,"The comment is a brief, suggestive reaction to a GIF and does not discuss Name Tag or facial recognition features."
+oa7cki0,False,neutral,0.0,"The comment is unrelated to smart glasses, facial recognition, or Meta's Name Tag feature."
+oa8a8vm,False,neutral,0.0,"The comment is a personal attack and does not mention Meta, smart glasses, or facial recognition."
+oa9ohjz,False,neutral,0.0,The comment is too vague to be specifically about the Name Tag or facial recognition feature.
+oa9tq4g,False,neutral,0.0,The comment is a general observation about visibility and is not related to facial recognition or Meta's Name Tag feature.
+oaa5ehr,False,neutral,0.0,"The comment discusses accountability in a general, unrelated context, not Meta's Name Tag feature."
+oaa64ck,False,neutral,0.0,"The comment discusses an unspecified tragic accident and accountability, not smart glasses or facial recognition."
+oaa768q,False,neutral,0.0,"The comment discusses a specific incident involving law enforcement, not smart glasses or facial recognition."
+oad01nv,False,neutral,0.0,"The comment is a general rhetorical question about bodycams, not specifically about Meta's Name Tag or facial recognition."
+oae8pga,False,neutral,0.0,"The comment discusses police accountability and violence, not Meta's Name Tag feature."
+oag74m4,False,neutral,0.0,"The comment discusses police conduct and fatal shootings, not Meta's Name Tag feature."
+oa5b9la,True,negative,-0.7,"The comment implies disapproval or negative judgment regarding a feature, likely the facial recognition aspect."
+oa5o2kb,False,neutral,0.0,"The comment discusses Google's predictive shopping features, not Meta's Name Tag facial recognition."
+oa5osnv,True,negative,-0.3,The comment implies disapproval or skepticism regarding the feature's implementation via the terms of service.
+oa5otv1,False,neutral,0.0,"The comment is a localized, cryptic reference and does not discuss Name Tag or facial recognition features."
+oa5saqy,True,negative,-0.7,"It discusses the potential misuse and sale of recorded data, which relates to privacy concerns surrounding facial recognition features."
+oa5sxqr,False,neutral,0.0,The comment is too vague ('Not one soul was surprised') to relate specifically to Name Tag or facial recognition.
+oa5tazp,False,neutral,0.0,"The comment is about wake word lawsuits, not Meta's Name Tag or facial recognition features."
+oa5v3w7,False,neutral,0.0,"The comment is a general dismissal of the news, offering no specific opinion on Name Tag or facial recognition."
+oa63wme,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition."
+oa64drg,False,neutral,0.0,"The link discusses Meta's general privacy lawsuits, not specifically the Name Tag facial recognition feature."
+oa657ow,False,neutral,0.0,"The comment discusses shopping app suggestions and confirmation bias, not Meta's Name Tag feature."
+oa65fie,False,neutral,0.0,"The comment is too vague and does not mention facial recognition, Name Tag, or Meta's smart glasses."
+oa6dz3p,False,neutral,0.0,"The comment is a general philosophical statement and does not mention Meta, Name Tag, or facial recognition."
+oa6jssm,False,neutral,0.0,"The comment discusses general distrust of devices and lobbying for frameworks, not Meta's Name Tag feature."
+oa6nyvn,False,neutral,0.0,"The comment is a general expression of dislike and does not mention Meta, Name Tag, or facial recognition."
+oa7c4g6,True,negative,-0.5,"The user questions privacy implications regarding recording others, directly related to facial recognition features."
+oa7dkyt,False,neutral,0.0,The comment is only an image/GIF and contains no discernible text or discussion about Name Tag or facial recognition.
+oa7e0dj,False,neutral,0.0,"The comment discusses confirmation bias abstractly and does not mention Meta, smart glasses, or facial recognition."
+oa7fiq5,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition."
+oa902ow,False,neutral,0.0,"The comment discusses general audio/video capture functionality, not specifically the Name Tag facial recognition feature."
+oa9d1p2,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition."
+oa9xxit,False,neutral,0.0,The comment is too vague ('Glass action lawsuit') to confirm relevance to Name Tag or facial recognition features.
+oaaan8y,False,neutral,0.0,The comment is too generic and lacks any specific mention of facial recognition or Name Tag features.
+oab5z4a,False,neutral,0.0,The comment is a general suggestion about smartphone manufacturers and does not mention facial recognition or Meta's Name Tag feature.
+oaj12wv,False,neutral,-0.3,"The comment is a general critique of Meta's ethics, not specifically about the Name Tag facial recognition feature."
+oaleq69,False,neutral,0.0,"The comment discusses general AI/voice assistant failures and data tracking, not Meta's Name Tag feature."
+oariemf,False,neutral,0.0,"The comment discusses general surveillance/gaming, not Meta's Name Tag or facial recognition features."
+oat0bfc,False,neutral,-0.3,"The comment is a general critique of Meta's privacy practices, not specifically about the Name Tag feature."
+oaujnox,True,negative,-0.7,The word 'Peeping?' strongly implies suspicion or discomfort regarding surveillance/facial recognition.
+oaujrsg,False,neutral,0.0,"The comment is a general statement about data trust in tech companies, not specific to Meta's Name Tag feature."
+oav4gfe,False,neutral,0.0,"The comment discusses spying on kids in Gorilla Tag, not Meta's Name Tag facial recognition feature."
+oavgbl9,False,neutral,0.0,"The comment discusses general privacy concerns about Meta accounts, not specifically the Name Tag facial recognition feature."
+oaw86yw,False,neutral,0.0,"The comment discusses future Meta hardware and competition, not the Name Tag facial recognition feature."
+oaway8k,True,negative,-0.7,"The comment expresses strong disapproval of Meta's data collection practices, implying concern over facial recognition features."
+oeetkvd,True,negative,-0.6,The comment discusses the negative stigma ('pervert glasses') associated with surveillance features like facial recognition.
+of6147k,True,negative,-0.6,"The comment references the 'pervert glasses' stigma, which is a direct reaction to facial recognition/camera features like Name Tag."
+ob9s9ld,True,negative,-0.7,Directly expresses concern about the privacy implications of facial recognition on glasses.
+og43ap1,False,neutral,0.0,"The comment discusses competitor products, phone dependency, and code repositories, not Name Tag or facial recognition."
+og44jpx,False,neutral,0.0,"The comment discusses OS competition and phone independence, not Meta's Name Tag facial recognition feature."
+og4k8ob,False,neutral,0.0,"The comment discusses open-source firmware for a microcontroller, which is unrelated to Meta's Name Tag feature."
+og6sncb,False,neutral,0.0,"The comment discusses general smart-glasses functionality and input controls, not Meta's Name Tag or facial recognition."
+nn1e32d,False,neutral,0.0,The comment is a generic question asking for suggestions and lacks any specific context about Name Tag or facial recognition.
+nn1e4gf,True,negative,-0.7,"The linked article discusses misuse of the glasses for recording, implying privacy concerns related to facial recognition."
+nn1g3by,False,neutral,0.0,"The comment is a general, vague statement about confiscating phones and does not mention Meta, Name Tag, or facial recognition."
+nn1g681,False,neutral,0.0,"The comment discusses regulation and a charging stand, not Meta's Name Tag or facial recognition features."
+nn1gdf3,False,neutral,0.0,"The comment is a general critique of the subreddit's users, not specific to Meta's Name Tag feature."
+nn1gj6x,True,negative,-0.5,"The comment implies a lack of privacy concern regarding public surveillance, which relates to facial recognition features."
+nn1gnro,False,neutral,0.0,"The comment is a general, accusatory exchange about Meta users and their glasses, not specifically about the Name Tag feature."
+nn1grda,False,neutral,0.0,"The comment discusses how others perceive the glasses generally, not the Name Tag or facial recognition feature."
+nn1grqu,False,neutral,0.1,"Discusses general surveillance and recording, not specifically Meta's Name Tag facial recognition feature."
+nn1h416,False,neutral,0.0,The comment is too vague ('Lowkey') to provide any substantive information about the Name Tag feature.
+nn1hvif,False,neutral,0.0,"The comment is a general philosophical statement and does not mention Meta, Name Tag, or facial recognition."
+nn1iuni,False,neutral,0.0,The comment is a general statement about freedom and does not mention smart glasses or facial recognition.
+nn1kguv,False,neutral,0.0,"The comment is a generic dismissal of a post, not discussing the Name Tag feature or facial recognition."
+nn1l1s0,False,neutral,0.0,"The comment is about a spam bot promoting a charging stand, not the Name Tag feature."
+nn1lc5l,False,neutral,0.0,"The comment discusses spam and referral links, which is unrelated to facial recognition or Meta's Name Tag feature."
+nrrpcrr,False,neutral,0.0,The comment is a generic question about streaming capabilities and does not mention facial recognition or Name Tag.
+nrrq2iz,False,neutral,0.0,The comment is too vague and lacks specific mention of the 'Name Tag' feature or facial recognition.
+nrrsjji,False,neutral,0.0,"The comment discusses battery life and video calls, not Meta's Name Tag facial recognition feature."
+nrrtbyb,False,neutral,0.0,"The comment discusses battery life and streaming issues, not facial recognition or Name Tag."
+nrru93j,False,neutral,0.0,"The comment discusses battery life and camera performance, not facial recognition or Name Tag."
+nrs08zx,False,neutral,0.0,"The comment discusses livestreaming setup, not facial recognition or Name Tag features."
+nrs7pr5,True,neutral,0.1,It discusses the persistence of a feature (implied to be related to identification/recognition) due to a partnership.
+nrsuh08,False,neutral,0.0,"The comment is a generic, non-specific acknowledgment and does not mention Name Tag or facial recognition."
+nrsul0h,False,neutral,0.0,"The comment discusses a competitor's AI glasses, not Meta's Name Tag or facial recognition features."
+nrtxeox,False,neutral,0.0,"The comment discusses the removal of automatic video editing, not facial recognition or Name Tag features."
+ns4gh2t,False,neutral,0.0,"The comment discusses general surveillance by police, not Meta's Name Tag feature."
+ns4trwp,False,neutral,0.0,"The comment discusses police misuse and government surveillance, not Meta's Name Tag feature."
+nsarguj,False,neutral,0.0,"The comment is a technical support question about video calls, not about facial recognition features."
+nuv4hdm,False,neutral,0.1,"The comment focuses on audio/camera functionality, not Meta's Name Tag or facial recognition."
+nuv55oj,False,neutral,0.0,"The comment discusses battery life and camera removal, not facial recognition or Name Tag."
+nuv6ab7,False,neutral,0.0,"The comment compares different smart glasses models (G2, Dymesty) regarding display and audio, not Meta's Name Tag feature."
+nuv97w4,False,neutral,0.0,"The comment discusses Amazon Echo Frames, not Meta's Name Tag or facial recognition features."
+nuv9mhe,False,neutral,0.0,"The comment asks about AI-free camera glasses for filmmaking, not Meta's Name Tag feature."
+nuva9el,False,neutral,0.1,"The comment focuses on general feature comparison (camera, app integration) and build quality, not Name Tag or facial recognition."
+nuvhgpo,False,neutral,0.0,"The comment is a general dismissal of the glasses' utility, not specifically about the Name Tag feature."
+nuvmyok,False,neutral,0.0,"The comment discusses general usage and recording features, not Meta's Name Tag or facial recognition."
+nuvnrs6,False,neutral,0.0,"The comment discusses general usage and features of Ray-Ban Meta/G1, not the Name Tag facial recognition feature."
+nuwdb27,False,neutral,0.1,"The comment discusses general utility and adoption of smart glasses, not specifically the Name Tag facial recognition feature."
+nuwfyzc,False,neutral,0.0,"The comment is a general observation about the glasses' appearance, not about the Name Tag or facial recognition feature."
+nuwont5,False,neutral,0.0,"The comment discusses general AI performance (pictures, calls, music) but does not mention Name Tag or facial recognition."
+nux38sw,False,neutral,0.0,"The comment is too vague and does not mention facial recognition, Name Tag, or Meta's specific features."
+nuz3ju3,False,neutral,0.1,The comment is generally positive about the glasses but does not mention Name Tag or facial recognition.
+nuz90ab,False,neutral,0.0,"The comment discusses a different brand's glasses and features (teleprompter, translator), not Meta's Name Tag."
+nv00sag,False,neutral,0.0,"The comment discusses audio quality and durability of Bose glasses, not Meta's Name Tag or facial recognition."
+nv0em3g,False,neutral,0.0,"The comment discusses the physical quality of the glasses, not the facial recognition feature."
+nvfucjy,False,neutral,0.0,"The comment discusses ear sensitivity and needing prescription glasses, not Meta's Name Tag feature."
+o69hogh,False,neutral,0.0,The comment discusses general features of competitor glasses and does not mention Meta's Name Tag or facial recognition.
+nx0jf9r,False,neutral,0.0,"The comment is a general prediction about Apple, not specific to Meta's Name Tag or facial recognition."
+nx0jgjf,False,neutral,0.0,The comment mentions using the glasses on a cruise but does not discuss Name Tag or facial recognition specifically.
+nx0k63h,False,neutral,0.0,"The comment discusses MLB, which is unrelated to Meta's Name Tag or facial recognition features."
+nx0k7us,False,neutral,0.0,The comment is too vague to relate specifically to Meta's Name Tag or facial recognition features.
+nx0kdvo,False,neutral,0.0,"The comment is a general comparison of consumer reception to Meta vs. Apple products, not specific to Name Tag."
+nx0koi9,False,neutral,0.0,"The comment discusses cruise ship privacy, not Meta's Name Tag or facial recognition on smart glasses."
+nx0kvp7,False,neutral,0.0,"The comment discusses general surveillance and hidden cameras, not Meta's Name Tag feature specifically."
+nx0kxzo,False,neutral,0.0,"The comment discusses general privacy/policy issues regarding cameras, not Meta's Name Tag feature specifically."
+nx0l18b,False,neutral,0.0,"The comment is a general statement about product adoption and banning, not specific to Name Tag or facial recognition."
+nx0lhws,False,neutral,0.0,"The comment discusses general privacy and hidden cameras, not Meta's Name Tag facial recognition feature."
+nx0lk27,False,neutral,0.0,"The comment only asks a technical question about prescription lenses, not about the Name Tag feature."
+nx0m2lj,False,neutral,0.0,"The comment discusses the general marketability of the glasses, not the Name Tag or facial recognition feature."
+nx0m6l3,False,neutral,0.0,The comment is too vague ('They will take them away') to relate specifically to Name Tag or facial recognition.
+nx0mszc,False,neutral,0.0,"The comment discusses general surveillance and recording, not Meta's Name Tag facial recognition feature."
+nx0q1s6,False,neutral,0.0,"The comment is a personal attack and does not mention Meta, smart glasses, or facial recognition."
+nx0q21m,False,neutral,0.0,"The comment is too vague and does not mention facial recognition, Name Tag, or Meta's specific features."
+nx0qajx,False,neutral,0.0,"The comment is a meta-commentary on the discussion itself, not about the Name Tag feature."
+nx0qfxw,False,neutral,0.0,The comment is completely off-topic and does not mention smart glasses or facial recognition.
+nx0quaj,True,negative,-0.6,The comment discusses discrimination related to the feature and predicts negative outcomes (ads winning).
+nx0r4ek,False,neutral,0.0,The comment is too vague ('they're banned') to relate specifically to Meta's Name Tag feature.
+nx0s1ie,False,neutral,0.0,The comment is a generic insult and contains no discussion about Meta's Name Tag or facial recognition.
+nx0ssyp,False,neutral,0.0,The comment is a generic acknowledgment and does not mention facial recognition or Meta's Name Tag feature.
+nx0tid1,False,neutral,0.0,"The comment discusses cruise line policies regarding recording, not Meta's Name Tag facial recognition feature."
+nx0utn5,False,neutral,0.0,"The comment discusses cruise lines and their practices, not Meta's Name Tag or facial recognition on smart glasses."
+nx21dzn,False,neutral,0.0,"The comment discusses privacy lights and bans, not Meta's Name Tag or facial recognition features."
+nx3d8tl,False,neutral,0.0,"The comment is a link without context, making it impossible to determine relevance to Name Tag or facial recognition."
+nx3ed9s,False,neutral,0.0,The comment is a vague reaction ('we are so cooked') and lacks specific context regarding Name Tag or facial recognition.
+nx3n2db,False,neutral,0.0,"The comment discusses general social perception of cameras, not Meta's Name Tag feature specifically."
+nx3od6w,False,neutral,0.1,"The comment discusses general privacy concerns about recording devices, not specifically Meta's Name Tag facial recognition feature."
+nyf9ra8,False,neutral,0.0,"The comment discusses general usage and battery life, not facial recognition or Name Tag features."
+nyfca1h,False,neutral,0.0,"The comment discusses workplace restrictions on phones, not Meta's Name Tag or facial recognition features."
+nyfd49j,False,neutral,0.1,"The comment discusses general recording privacy concerns, not Meta's specific 'Name Tag' facial recognition feature."
+nyfge4f,False,neutral,0.0,"The comment discusses general usage and alternatives, not Meta's Name Tag or facial recognition features."
+nyfqbhh,False,neutral,0.0,"The comment discusses general device bans, not Meta's Name Tag or facial recognition features."
+nyfwedu,False,neutral,0.0,"The comment discusses battery life and model upgrades, not facial recognition or Name Tag features."
+nyg3d3r,True,negative,-0.6,The user expresses discomfort and a 'creep' factor regarding the presence of cameras/facial recognition in glasses.
+nyg545w,False,neutral,0.0,"The comment discusses the need for traditional glasses, not Meta's Name Tag or facial recognition features."
+nyicumn,False,neutral,0.0,"The comment discusses lens swapping, battery life, and general social reactions, not Name Tag or facial recognition."
+nyjqvwh,False,neutral,0.0,The comment is a general expression of frustration and is not about Meta's Name Tag or facial recognition.
+nyjwjvt,False,neutral,0.0,"The comment discusses general usability and use cases, not the Name Tag or facial recognition feature."
+nyjwllf,False,neutral,0.0,"The comment is only asking about the price of the glasses, not the Name Tag feature or facial recognition."
+o8m9w17,False,neutral,0.0,"The comment discusses hiding a gadget, not specifically Meta's Name Tag or facial recognition features."
+o8mbxnm,False,neutral,0.0,"The comment discusses general user awareness of smart glasses cameras, not Meta's Name Tag or facial recognition features."
+o8mw7by,False,neutral,0.0,"The comment discusses a feature availability issue on the glasses, not facial recognition or Name Tag."
+o8my7aq,False,neutral,0.0,"The comment discusses the visibility of different colored glasses, not facial recognition or Name Tag features."
+o8nd4go,False,neutral,0.0,"The comment discusses video recording quality and length, not facial recognition or Name Tag features."
+o8qkgju,False,neutral,0.0,The comment is too brief ('Nice.') to provide any substantive information about the Name Tag feature.
+o8rao8j,False,neutral,0.0,"The comment only asks about mic quality of the gen 1, not facial recognition or Name Tag."
+o8rdn4l,False,neutral,0.0,"The comment discusses microphone quality, not facial recognition or Name Tag features."
+o8rfhm9,False,neutral,0.0,"The comment asks about overheating, which is a hardware concern, not about the Name Tag or facial recognition feature."
+o8riyj5,False,neutral,0.0,"The comment discusses the case warming up, which is a hardware observation, not related to facial recognition or Name Tag."
+o8u9u86,False,neutral,0.0,"The comment discusses comfort and model comparison, not facial recognition or Name Tag features."
+o8zvpit,False,neutral,0.0,"The comment discusses camera visibility preferences generally, not Meta's Name Tag or facial recognition specifically."
+o9fm1sl,False,neutral,0.0,"The comment discusses physical discomfort with the glasses, not the Name Tag or facial recognition feature."
+o9fobbl,False,neutral,0.0,"The comment discusses the physical fit of the glasses, not the Name Tag or facial recognition feature."
+o9fp5oc,False,neutral,0.0,The comment only discusses the appearance of the glasses (lenses) and does not mention facial recognition or Name Tag.
+o8xeofb,False,neutral,0.0,"The comment is too vague and does not mention facial recognition, Name Tag, or Meta's specific features."
+o8xgw26,False,neutral,0.0,"The comment is a general statement about anonymity in modern technology, not specifically about Meta's Name Tag feature."
+mpta2yi,False,neutral,0.0,"The comment is a moderation notice regarding a submission rule violation, not a discussion of Meta's Name Tag feature."
+ods4ci5,False,neutral,0.0,"The comment is a general critique of a document and AI implementation, not specific to Meta's Name Tag feature."
+ods5vry,False,neutral,0.0,"The comment discusses voting rights and corporate freedom, not Meta's Name Tag or facial recognition features."
+ods6x01,False,neutral,0.0,The comment discusses stock market performance and has no relation to smart glasses or facial recognition.
+ods7k8o,False,neutral,0.0,The comment is too vague ('Sucks to suck') to be specifically about the Name Tag feature or facial recognition.
+ods9in3,False,neutral,0.0,"The comment discusses a competitor's financial standing, not Meta's Name Tag or facial recognition features."
+ods9qg9,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition."
+odsaioi,False,neutral,0.0,"The comment discusses aesthetics and battery life, not the Name Tag or facial recognition feature."
+odsaqlx,False,neutral,0.0,"The comment discusses Snapchat and shareholder interests, not Meta's Name Tag or facial recognition."
+odsbc57,False,neutral,0.0,The comment is a general critique of a 'dev kit' and does not mention Name Tag or facial recognition.
+odsbn73,False,neutral,0.0,"The comment only discusses comfort, not the facial recognition or Name Tag feature."
+odsbrnj,True,negative,-0.6,"The comment expresses strong skepticism about consumer adoption of the feature, implying it's niche or undesirable."
+odsbvaq,False,neutral,0.0,"The comment is about kids using a developer kit, not Meta's Name Tag or facial recognition features."
+odsc95v,False,neutral,0.0,"The comment discusses build quality, not the Name Tag or facial recognition feature."
+odseawe,False,neutral,0.0,"The comment discusses financial investment and viability, not the Name Tag feature or facial recognition."
+odsjmbh,False,neutral,0.0,"The comment discusses Snap's presentation and roadmap, not Meta's Name Tag or facial recognition."
+odsrbki,False,neutral,0.0,"The comment discusses Meta's financial structure and acquisitions, not the Name Tag facial recognition feature."
+odsse3f,False,neutral,0.0,"The comment is a general negative critique of the product, not specifically about the Name Tag or facial recognition feature."
+odst6lc,False,neutral,0.0,"The comment discusses Flappy Bird and developer pools, not Meta's Name Tag or facial recognition."
+odsuj9t,False,neutral,0.0,"The comment is a general critique of Meta's Spectacles, not specifically about the Name Tag facial recognition feature."
+odsun99,False,neutral,0.0,"The comment discusses video game engagement, which is completely unrelated to smart glasses or facial recognition."
+odtj4la,False,neutral,0.0,"The comment discusses Meta's financial health and investor relations, not the Name Tag feature."
+odtp9kp,False,neutral,0.0,"The comment is too vague and does not mention Meta, Name Tag, or facial recognition."
+oduyzg4,False,neutral,0.0,The comment is about a resignation and has no connection to Meta's Name Tag or facial recognition features.
+odw3hu6,False,neutral,0.0,"The comment discusses executive changes at Snap, not Meta's Name Tag or facial recognition features."
+oes2n3u,False,neutral,0.0,"The comment is too generic, only mentioning 'specs' and VR headsets, not the Name Tag feature."
+oes34gq,False,neutral,0.0,"The comment discusses financial burn rate and R&D, not facial recognition or Name Tag features."
+mb00bc1,False,neutral,0.0,The comment is a general preference for a design ('Kiwi design') and does not mention facial recognition or Meta's Name Tag feature.
+mb01nmn,False,neutral,0.0,The comment is just a single word and provides no context regarding facial recognition or Meta's Name Tag feature.
+mb02m5m,False,neutral,0.0,The comment is only about battery life and does not mention facial recognition or Name Tag.
+mb035e9,False,neutral,0.0,"The comment is too vague and does not mention facial recognition, Name Tag, or Meta's specific features."
+mb04ibj,False,neutral,0.0,The comment discusses a 'kiwi k4' and is not about Meta's Name Tag or facial recognition.
+mb05660,False,neutral,0.0,"The comment discusses VR headsets (BOBO VR, Quest 2) and is not about Meta's Name Tag feature."
+mb05ah4,False,neutral,0.0,"The comment discusses the physical comfort and battery of the Bobo glasses, not facial recognition."
+mb07hpp,False,neutral,0.0,The comment is a generic positive statement about a different product (Bobo S3 Pro) and does not mention Meta's Name Tag feature.
+mb08qi1,True,negative,-0.7,"The comment implies surveillance and data misuse, directly relating to privacy concerns around facial recognition."
+mb0fpod,False,neutral,0.0,"The comment discusses third-party strap accessories (BoboVR) and comfort, not Meta's Name Tag feature."
+mb0k2sx,False,neutral,0.0,"The comment discusses the general quality and comfort of a cheap pair of glasses, not Meta's Name Tag feature."
+mb0ma2m,False,neutral,0.0,The comment is just a product name and provides no discussion about facial recognition or Name Tag.
+mb0vhlo,False,neutral,0.0,"The comment is a general political/geopolitical statement and does not mention Meta, Ray-Ban Meta, or facial recognition."
+mb0ykcx,False,neutral,0.0,The comment is just a product code or model name and contains no discussion of facial recognition or Name Tag.
+mb0ypwa,False,neutral,0.0,"The comment is just a single, ambiguous word and provides no substantive discussion about Name Tag or facial recognition."
+mb0zxk5,False,neutral,0.0,The comment is too brief and vague to relate to Meta's Name Tag or facial recognition features.
+mb16dr9,False,neutral,0.0,"The comment discusses battery life for a different product (Bobo M3), not Meta's Name Tag feature."
+mb1hi48,False,neutral,0.0,"The comment discusses battery life and cost, not facial recognition or Name Tag features."
+mb1jrr8,False,neutral,0.0,"The comment discusses battery life for the Quest 2, not Meta's Name Tag or facial recognition features."
+mb1k5sp,False,neutral,0.0,"The comment is a general positive review of the glasses' comfort and quality, not about facial recognition."
+mb1koc8,False,neutral,0.0,"The comment discusses VR headsets (geekvr, bobovr) and comfort, not Meta's Name Tag feature."
+mb1pzqb,False,neutral,0.0,The comment is a product recommendation (Bobo vs. Kiwi) and does not mention facial recognition or Meta's Name Tag feature.
+mb1rs96,False,neutral,0.0,The comment compares two different smart glasses brands (Kiwi and BoboVR) without mentioning Meta or facial recognition.
+mb1t9qa,False,neutral,0.0,"The comment discusses comfort of a 'Bobo' device, not Meta's Name Tag or facial recognition."
+mb1tzuj,False,neutral,0.0,"The comment is a general statement about a product ('KIWI') and does not mention Meta, Name Tag, or facial recognition."
+mb1u0eo,False,neutral,0.0,The comment is too short and vague ('Naaaah kiwi is') to relate to facial recognition or Meta's Name Tag feature.
+mb1vytq,False,neutral,0.0,The comment is just a product name and provides no discussion about facial recognition or Name Tag.
+mb1x325,False,neutral,0.0,The comment is too vague ('I’d recommend the better option') to relate to facial recognition or Name Tag.
+mb1yy63,False,neutral,0.0,The comment is a sales post for used glasses and does not discuss facial recognition or Meta's Name Tag feature.
+mb1zaqg,False,neutral,0.0,"The comment discusses head shapes and fit, which is generic hardware feedback, not about facial recognition."
+mb21axe,False,neutral,0.0,"The comment discusses hardware issues (straps, battery life) and is not about facial recognition or Name Tag."
+mb223mq,False,neutral,0.0,"The comment discusses the nationality of two entities, which is unrelated to Meta's Name Tag feature."
+mb2j7xo,False,neutral,0.0,"The comment discusses accessories (strap, interface, cable) and is not about Meta's Name Tag or facial recognition."
+mb2kgmt,False,neutral,0.0,"The comment only discusses battery life, not the Name Tag or facial recognition feature."
+mb2uev8,False,neutral,0.0,"The comment discusses a 'kiwi' device and battery, with no mention of Meta, facial recognition, or Name Tag."
+mb301rv,False,neutral,0.0,"The comment is about choosing a laptop (gaming vs. Chromebook), not smart glasses or facial recognition."
+mb48ade,False,neutral,0.0,"The comment discusses battery life and battery packs, not facial recognition or Name Tag features."
+mb4famt,False,neutral,0.0,The comment mentions a different product ('bobovr e3 pro') and is not about Meta's Name Tag feature.
+mb4l9ns,False,neutral,0.0,"The comment discusses battery packs for unrelated brands, not Meta's Name Tag or facial recognition."
+mb4zczr,False,neutral,0.0,"The comment is a generic acknowledgment and does not mention Name Tag, facial recognition, or Meta's policies."
+mb7eya5,False,neutral,0.0,"The comment discusses the physical comfort and design of the glasses, not the Name Tag or facial recognition feature."
+mb876gr,False,neutral,0.0,"The comment discusses battery issues and kiwi, having no relation to facial recognition or Meta's smart glasses features."
+mb9d7ig,False,neutral,0.0,"The comment is too vague and does not mention Name Tag, facial recognition, or Meta's policies."

@@ -1,0 +1,66 @@
+id,is_relevant,sentiment_label,sentiment_score,reason
+1khl1xh,True,negative,-0.8,"The post directly discusses Meta's facial ID research, framing it as real-time surveillance and a threat to anonymity and privacy."
+1nldj4m,True,negative,-0.9,"The post directly addresses surveillance, lack of consent, and data collection risks associated with Meta's smart glasses."
+1r0iupy,True,negative,-0.8,"The post directly discusses surveillance, tracking, and the proliferation of smart devices like Meta glasses."
+1ntgzvn,True,negative,-0.5,The post critiques the industry's trend toward invasive surveillance and data commodification in AR.
+1sa2ofi,True,negative,-0.9,"The post directly addresses civil society opposition to Meta integrating facial recognition, framing it as surveillance."
+1m1ql96,True,negative,-0.9,The post directly critiques Meta's terms regarding perpetual data licensing from smart glasses use.
+1rh1c9z,True,negative,-0.4,The post discusses pervasive surveillance and the constant presence of recording devices in public spaces.
+1nxwjvg,False,neutral,0.1,"The post focuses on general usability and features, not privacy concerns or surveillance risks."
+1rh1mf1,True,neutral,0.1,"Compares camera-less privacy vs. camera features, touching on surveillance/data collection trade-offs."
+1nxwjln,False,neutral,0.1,"The post focuses primarily on hardware features and user experience, not privacy concerns."
+1o68vla,True,neutral,0.1,"The post discusses physically disabling the capture LED to prevent recording, directly addressing privacy concerns."
+1n5qsr5,True,negative,-0.7,The title directly addresses Gen Z pushing back due to privacy fears regarding smart glasses and cameras.
+1oib9ew,True,negative,-0.8,"Directly addresses privacy concerns, surveillance, and the inadequacy of laws regarding smart glasses."
+1rjf1d7,True,negative,-0.8,"The title directly addresses data privacy concerns regarding Meta's smart glasses, citing worker testimony."
+1rvo4ft,True,negative,-0.8,Directly addresses privacy concerns (secret recording) related to smart glasses use.
+1rmajsf,True,negative,-0.8,"The title directly addresses data privacy concerns regarding Meta's smart glasses, citing worker testimony."
+1p5thom,True,negative,-0.4,"The user explicitly contrasts display-only glasses with 'Meta’s got cameras and AI watching everything,' raising privacy concerns."
+1pwv9ya,True,positive,0.7,It discusses the privacy benefits of camera-less smart glasses as a solution to public surveillance anxiety.
+1qczbxe,True,negative,-0.8,"The post discusses the erosion of privacy due to 'Always-On' devices, explicitly mentioning smart glasses as part of the trend."
+1ocj50a,True,negative,-0.7,"The post links AI browsing to smart glasses, framing the combination as a 'Black Mirror' surveillance scenario."
+1orzdgv,True,negative,-0.8,"The post discusses pervasive surveillance and the erosion of privacy due to technology, aligning with smart glass concerns."
+1qd7097,True,negative,-0.5,Mentions past privacy mistakes and raises fresh questions about ambient data collection from smart glasses.
+1pk1d70,False,neutral,0.1,"The post focuses on productivity and digital decluttering, not privacy concerns or surveillance."
+1pmgpr8,False,neutral,0.0,"The post is a feature checklist, not discussing privacy concerns or surveillance risks."
+1pmjkow,False,neutral,0.0,"The post is a feature checklist for smart glasses, lacking specific discussion on privacy concerns."
+1pqgyur,True,neutral,0.1,"Discusses data collection via smart glasses, directly touching on privacy concerns and consent protocols."
+1q8bipb,False,neutral,0.1,"Focuses on features, comfort, and utility, not privacy, surveillance, or data concerns."
+1qbdrq5,False,neutral,0.0,"The post focuses entirely on feature requirements (translation, comfort) and lacks any discussion of privacy concerns."
+1qlncxz,True,neutral,0.1,"The user seeks firmware to audit for 'sketchy trackers' and 'always-on mics,' directly addressing privacy concerns."
+1r8y7r7,False,neutral,0.1,"The post is a general feature article highlighting capabilities, not focusing on privacy concerns."
+1sg1fyr,True,positive,0.6,"Highlights a 'privacy-first design' and local processing, directly addressing data collection concerns."
+1sgh2kw,True,positive,0.6,"The post explicitly mentions a 'no-camera design for real privacy,' directly addressing privacy concerns."
+1sgsj1x,True,neutral,0.1,The user explicitly asks for the 'best for privacy' among smart glasses options.
+1sgsl5w,False,neutral,0.0,"The post focuses on price, quality, and specs, not privacy concerns or surveillance."
+1shcmdg,True,positive,0.8,"The post explicitly focuses on building a privacy-respecting, open-source device to counter surveillance concerns."
+1smhcoh,True,neutral,0.1,Discusses privacy features (privacy filter) and data access limitations of a smart glass device.
+1hv3j6x,False,neutral,0.1,"The post focuses on memory assistance features, not on privacy concerns or surveillance risks."
+1jaeidu,True,positive,0.6,Discusses Google's focus on transparency and user comfort regarding camera recording in smart glasses.
+1kf9opt,True,neutral,0.1,"The user explicitly prioritizes privacy and offline functionality for translation, directly addressing the topic."
+1ks04fb,True,negative,-0.6,Expresses strong distrust of FAANG companies regarding data exploitation and surveillance via smart glasses.
+1ktrywo,False,neutral,0.0,The post focuses entirely on technical specifications and use cases of a specific smart glass model.
+1kzr3pj,True,neutral,0.1,"The post mentions 'Privacy and safety' as a panel topic, which is relevant to smart glasses concerns."
+1ljuc5l,True,neutral,0.1,"Mentions privacy in the context of an upgrade, but the focus is primarily on technical specs and features."
+1mnwrih,True,positive,0.8,The post directly addresses privacy concerns by offering an open-source solution to protect bystander privacy.
+1oq15wb,False,neutral,0.1,"The post is a product announcement/feature piece focusing on specs and innovation, not privacy concerns."
+1oyn96r,False,neutral,0.1,Focuses on payment and display tech; privacy concerns are not discussed.
+1p5syhm,True,negative,-0.4,"The user explicitly contrasts display-only glasses with 'Meta’s got cameras and AI watching everything,' raising privacy concerns."
+1p8r4eq,True,positive,0.3,It discusses a new smart glass company that explicitly claims to protect privacy by capturing audio only.
+1pn9ilc,True,positive,0.5,The post directly addresses privacy concerns by noting a ban to safeguard guest privacy.
+1qlnfp0,True,neutral,0.1,"The user seeks firmware to audit for 'sketchy trackers' and 'always-on mics,' directly addressing privacy concerns."
+1rr9cn4,True,positive,0.7,The post explicitly mentions 'privacy-first' and 'maximizing user privacy' in the context of new smart glasses technology.
+1rvcmx9,True,negative,-0.7,The post details legislative pushback against smart glasses due to privacy and covert recording concerns.
+1sg1cxd,True,positive,0.7,"Highlights a 'privacy-first design' and local processing, directly addressing data collection concerns."
+1sgqvsk,True,positive,0.6,"The post explicitly mentions a 'no-camera design for real privacy,' directly addressing privacy concerns."
+1sh7a7c,True,negative,-0.7,"The title explicitly links smart glasses to lawsuits, strongly implying privacy and legal concerns."
+1shcp8s,True,positive,0.8,"The post explicitly focuses on building a privacy-respecting, open-source smart glass."
+1t1j4ek,True,negative,-0.6,The post strongly critiques the lack of real privacy and transparency in current smart glasses technology.
+1l52h7x,True,negative,-0.3,Mentions 'camera-on-your-face privacy concerns' and social discomfort regarding recording.
+1pk6ajq,True,negative,-0.5,"The post discusses a ban on smart glasses due to privacy concerns, aligning directly with the topic."
+1rjumlf,True,negative,-0.7,The title directly addresses privacy concerns regarding Meta's smart glasses and surveillance.
+1r9z2qg,True,negative,-0.8,The post directly addresses privacy concerns (facial recognition) regarding a specific smart glasses company (Meta).
+1qblurq,True,neutral,0.1,"Mentions 'privacy-protecting camera tools,' directly touching on privacy concerns, though in a promotional context."
+1mqwc4y,True,negative,-0.7,The post directly discusses privacy concerns (or lack thereof) regarding live camera feeds in smart glasses.
+1p7s1dg,False,neutral,0.0,"The post is purely a technical announcement about new chip specifications, lacking any privacy discussion."
+1stysx1,False,neutral,0.1,"The post is a technical guide about customizing functionality, not discussing privacy concerns."
