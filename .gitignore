@@ -1,0 +1,50 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# uv
+.uv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE / editors
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Claude Code
+.claude/
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
+*.key
+credentials.json
+
+# Data and outputs (large/generated)
+data/
+outputs/
+kiq_3_1/
+*.csv
+*.parquet
+*.pkl
+*.joblib
+
+# Logs
+*.log
+logs/
